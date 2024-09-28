@@ -1,0 +1,180 @@
+{
+    "distinctions": [
+      {
+        "concept_1": {
+          "nom": "Conscience immédiate",
+          "definition": "La conscience immédiate est une forme de conscience directe, sans réflexion ni médiation, où l'individu est simplement conscient de ses sensations et de ses perceptions présentes."
+        },
+        "concept_2": {
+          "nom": "Conscience réfléchie",
+          "definition": "La conscience réfléchie est une forme de conscience où l'individu prend du recul et réfléchit sur ses propres pensées, actions ou états de conscience. Elle implique une prise de conscience de soi-même."
+        },
+        "opposition": "La conscience immédiate est directe et spontanée, tandis que la conscience réfléchie implique une réflexion sur soi-même et sur ses propres états mentaux."
+      },
+      {
+        "concept_1": {
+          "nom": "Conscience phénoménale",
+          "definition": "La conscience phénoménale fait référence à l'expérience subjective et qualitative des états mentaux, comme la perception des couleurs, des sons ou des émotions."
+        },
+        "concept_2": {
+          "nom": "Conscience d'accès",
+          "definition": "La conscience d'accès est la capacité de l'esprit à accéder à certaines informations et à les utiliser pour guider le comportement et la prise de décision."
+        },
+        "opposition": "La conscience phénoménale concerne l'aspect subjectif de l'expérience, tandis que la conscience d'accès se réfère à la capacité de traiter et d'utiliser des informations de manière consciente."
+      },
+      {
+        "concept_1": {
+          "nom": "Conscience morale",
+          "definition": "La conscience morale est la capacité de distinguer le bien du mal et de juger les actions en fonction de principes éthiques. Elle est souvent associée à des sentiments de culpabilité ou de responsabilité."
+        },
+        "concept_2": {
+          "nom": "Conscience psychologique",
+          "definition": "La conscience psychologique désigne la capacité de l'individu à être conscient de ses propres états mentaux, de ses pensées et de ses émotions, sans nécessairement impliquer un jugement moral."
+        },
+        "opposition": "La conscience morale implique un jugement éthique sur les actions, tandis que la conscience psychologique se limite à la prise de conscience des états mentaux sans jugement moral."
+      },
+      {
+        "concept_1": {
+          "nom": "Conscience individuelle",
+          "definition": "La conscience individuelle est la prise de conscience qu'un individu a de lui-même en tant qu'être distinct, avec ses propres pensées, sentiments et expériences."
+        },
+        "concept_2": {
+          "nom": "Conscience collective",
+          "definition": "La conscience collective est un concept sociologique qui désigne les croyances, valeurs et normes partagées par un groupe ou une société, et qui influencent la manière dont les individus perçoivent le monde."
+        },
+        "opposition": "La conscience individuelle est centrée sur l'expérience personnelle et subjective, tandis que la conscience collective concerne les croyances et valeurs partagées par un groupe social."
+      },
+      {
+        "concept_1": {
+          "nom": "Conscience corporelle",
+          "definition": "La conscience corporelle est la prise de conscience de son propre corps, de ses mouvements et de ses sensations physiques."
+        },
+        "concept_2": {
+          "nom": "Conscience intellectuelle",
+          "definition": "La conscience intellectuelle est la prise de conscience des processus de pensée, des idées et des concepts abstraits. Elle est souvent associée à la réflexion et à l'introspection."
+        },
+        "opposition": "La conscience corporelle est liée aux sensations physiques et à la perception du corps, tandis que la conscience intellectuelle concerne les processus mentaux et la réflexion abstraite."
+      },
+      {
+        "concept_1": {
+          "nom": "Conscience empirique",
+          "definition": "La conscience empirique repose sur les sensations et les expériences directes du monde extérieur. Elle est liée à la perception sensorielle et à l'expérience vécue."
+        },
+        "concept_2": {
+          "nom": "Conscience transcendantale",
+          "definition": "La conscience transcendantale, selon Kant, est la structure a priori qui rend possible toute expérience. Elle n'est pas empirique, mais constitue les conditions de possibilité de la connaissance."
+        },
+        "opposition": "La conscience empirique est fondée sur l'expérience sensorielle, tandis que la conscience transcendantale est une condition a priori de toute expérience, selon Kant."
+      },
+      {
+        "concept_1": {
+          "nom": "Conscience déterminée",
+          "definition": "La conscience déterminée est une conscience qui est influencée par des facteurs extérieurs, tels que les instincts, les désirs ou les conditionnements sociaux."
+        },
+        "concept_2": {
+          "nom": "Conscience libre",
+          "definition": "La conscience libre est une conscience qui se pense comme autonome et capable de choix indépendants, sans être entièrement déterminée par des influences extérieures."
+        },
+        "opposition": "La conscience déterminée est influencée par des facteurs extérieurs, tandis que la conscience libre se pense comme capable d'agir de manière autonome et indépendante."
+      },
+      {
+        "concept_1": {
+          "nom": "Conscience cartésienne",
+          "definition": "La conscience cartésienne, selon Descartes, est une conscience de soi en tant que sujet pensant. Elle est fondée sur le cogito ('Je pense, donc je suis') et implique une distinction entre le corps et l'esprit."
+        },
+        "concept_2": {
+          "nom": "Conscience matérialiste",
+          "definition": "La conscience matérialiste, souvent associée à des philosophes comme Spinoza ou les matérialistes modernes, considère la conscience comme un produit du corps et des processus physiques, sans distinction entre esprit et matière."
+        },
+        "opposition": "La conscience cartésienne repose sur une distinction entre l'esprit et le corps, tandis que la conscience matérialiste considère la conscience comme un produit des processus physiques du corps."
+      },
+      {
+        "concept_1": {
+          "nom": "Conscience fluide",
+          "definition": "La conscience fluide, selon William James, est un flux continu de pensées, d'émotions et de perceptions, sans séparation nette entre le sujet et l'objet."
+        },
+        "concept_2": {
+          "nom": "Conscience statique",
+          "definition": "La conscience statique est une conception de la conscience comme un état fixe ou stable, où le sujet est distinct de l'objet et où les pensées sont clairement définies et séparées."
+        },
+        "opposition": "La conscience fluide est un flux continu sans distinction nette entre sujet et objet, tandis que la conscience statique conçoit la conscience comme un état stable avec des distinctions claires entre pensées et objets."
+      },
+      {
+        "concept_1": {
+          "nom": "Ataraxie",
+          "definition": "L'ataraxie est un état de tranquillité de l'âme, caractérisé par l'absence de perturbation mentale. Ce concept est central dans la philosophie épicurienne et stoïcienne."
+        },
+        "concept_2": {
+          "nom": "Aponie",
+          "definition": "L'aponie est l'absence de douleur physique, un état de bien-être corporel. Pour Épicure, le bonheur consiste dans la combinaison de l'ataraxie et de l'aponie."
+        },
+        "opposition": "L'ataraxie concerne la paix de l'esprit, tandis que l'aponie concerne l'absence de douleur physique. Ensemble, ces deux états forment la base du bonheur selon Épicure."
+      },
+      {
+        "concept_1": {
+          "nom": "Plaisirs catastrophématiques",
+          "definition": "Les plaisirs catastrophématiques sont des plaisirs stables et durables, qui ne sont pas accompagnés de souffrance. Ils sont souvent liés à des relations profondes, comme l'amitié."
+        },
+        "concept_2": {
+          "nom": "Plaisirs dynamiques",
+          "definition": "Les plaisirs dynamiques sont des plaisirs instables et souvent accompagnés de souffrance ou de perturbation. Ils sont généralement liés à des désirs immédiats, comme les plaisirs sexuels."
+        },
+        "opposition": "Les plaisirs catastrophématiques sont stables et durables, tandis que les plaisirs dynamiques sont instables et souvent accompagnés de souffrance."
+      },
+      {
+        "concept_1": {
+          "nom": "Bonheur stoïcien",
+          "definition": "Le bonheur stoïcien est l'atteinte de la vertu et de la sagesse, en accord avec la nature et la raison. Il repose sur la maîtrise des passions et l'acceptation des événements extérieurs."
+        },
+        "concept_2": {
+          "nom": "Bonheur épicurien",
+          "definition": "Le bonheur épicurien est la recherche du plaisir modéré et l'évitement de la douleur, en atteignant l'ataraxie (paix de l'âme) et l'aponie (absence de douleur physique)."
+        },
+        "opposition": "Le bonheur stoïcien met l'accent sur la maîtrise des passions et la vertu, tandis que le bonheur épicurien valorise le plaisir modéré et l'absence de douleur."
+      },
+      {
+        "concept_1": {
+          "nom": "Bonheur kantien",
+          "definition": "Pour Kant, le bonheur est un idéal de l'imagination, lié à la satisfaction des inclinations sensibles. Cependant, il ne peut être un critère moral, car la moralité repose sur le devoir et non sur la recherche du bonheur."
+        },
+        "concept_2": {
+          "nom": "Bonheur utilitariste",
+          "definition": "Dans l'utilitarisme, le bonheur est défini comme la maximisation du plaisir et la minimisation de la souffrance pour le plus grand nombre. Il s'agit d'une approche conséquentialiste du bonheur."
+        },
+        "opposition": "Le bonheur kantien est subordonné à la moralité et n'est pas un critère moral en soi, tandis que le bonheur utilitariste est un critère moral central, visant à maximiser le bien-être collectif."
+      },
+      {
+        "concept_1": {
+          "nom": "Bonheur ascétique",
+          "definition": "Le bonheur ascétique repose sur la renonciation aux plaisirs matériels et corporels, afin d'atteindre un état de paix intérieure ou de communion spirituelle."
+        },
+        "concept_2": {
+          "nom": "Bonheur hédoniste",
+          "definition": "Le bonheur hédoniste est la recherche des plaisirs matériels et corporels, considérés comme la source principale de bien-être."
+        },
+        "opposition": "Le bonheur ascétique valorise la renonciation aux plaisirs matériels pour atteindre une paix intérieure, tandis que le bonheur hédoniste valorise la recherche des plaisirs corporels et matériels."
+      },
+      {
+        "concept_1": {
+          "nom": "Bonheur contemplatif",
+          "definition": "Le bonheur contemplatif est lié à la contemplation intellectuelle ou spirituelle, souvent associé à la recherche de la vérité ou à l'union avec le divin."
+        },
+        "concept_2": {
+          "nom": "Bonheur actif",
+          "definition": "Le bonheur actif est lié à l'action et à la réalisation de projets dans le monde, souvent en lien avec l'accomplissement de tâches ou d'œuvres concrètes."
+        },
+        "opposition": "Le bonheur contemplatif est centré sur la réflexion et la méditation, tandis que le bonheur actif est lié à l'action et à la réalisation dans le monde extérieur."
+      },
+      {
+        "concept_1": {
+          "nom": "Bonheur selon le désir naturel",
+          "definition": "Le bonheur selon le désir naturel consiste à satisfaire des besoins fondamentaux et naturels, tels que la nourriture, le sommeil, et les relations sociales."
+        },
+        "concept_2": {
+          "nom": "Bonheur selon le désir artificiel",
+          "definition": "Le bonheur selon le désir artificiel résulte de la satisfaction de désirs créés par la société ou la culture, comme la recherche de richesse ou de prestige."
+        },
+        "opposition": "Le bonheur selon le désir naturel repose sur la satisfaction des besoins fondamentaux, tandis que le bonheur selon le désir artificiel repose sur des désirs créés par la culture ou la société."
+      }
+    ]
+  }

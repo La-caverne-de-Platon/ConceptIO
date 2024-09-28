@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ConceptIO - Distinctions Conceptuelles Philosophiques</title>
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        /* Global Style */
+        body, html {
+            height: 100%;
+            margin: 0;
+            font-family: 'Roboto', sans-serif;
+            background-color: #f0f2f5;
+        }
+
+        .bg-blur {
+            background-image: url('https://source.unsplash.com/1600x900/?philosophy,nature');
+            filter: blur(10px);
+            height: 100%;
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: cover;
+            position: fixed;
+            width: 100%;
+            z-index: -1;
+        }
+
+        /* Centered Box */
+        .centered-box {
+            background-color: rgba(255, 255, 255, 0.9);
+            padding: 40px;
+            border-radius: 15px;
+            text-align: left;
+            box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+            width: 100%;
+            margin: 5% auto;
+            z-index: 1;
+        }
+
+        /* Input Box */
+        input[type="text"] {
+            border-radius: 50px;
+            padding: 15px;
+            border: 1px solid #ddd;
+            font-size: 1.1em;
+            margin-bottom: 20px;
+            width: 100%;
+        }
+
+        /* Button Style */
+        button {
+            border-radius: 50px;
+            padding: 10px 20px;
+            font-size: 1.1em;
+            font-weight: bold;
+            background-color: #007bff;
+            color: white;
+            border: none;
+            transition: background-color 0.3s ease;
+        }
+
+        button:hover {
+            background-color: #0056b3;
+        }
+
+        /* Result Box */
+        .result-box {
+            margin-top: 2rem;
+            padding: 20px;
+            background-color: rgba(255, 255, 255, 0.9);
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+            width: 100%;
+            margin-left: auto;
+            margin-right: auto;
+            z-index: 1;
+        }
+
+        /* Concept Block */
+        .concept-block {
+            background-color: #ffffff;
+            padding: 15px;
+            margin-bottom: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            transition: transform 0.3s ease;
+        }
+
+        .concept-block:hover {
+            transform: translateY(-5px);
+        }
+
+        /* Concept Title */
+        .concept-title {
+            font-weight: bold;
+            font-size: 1.3em;
+            color: #333;
+        }
+
+        /* Opposition Text */
+        .opposition {
+            font-style: italic;
+            margin-top: 10px;
+            color: #555;
+        }
+
+        /* Responsive Design */
+        @media (max-width: 768px) {
+            .centered-box {
+                padding: 20px;
+            }
+
+            .result-box {
+                max-width: 95%;
+            }
+        }
+
+    </style>
+</head>
+<body>
+
+<div class="bg-blur"></div>
+
+<div class="container d-flex justify-content-center align-items-center" style="min-height: 100vh;">
+    <div class="centered-box">
+        <h1 class="mb-4" style="text-align: center; font-weight: bold; color: #333;">Distinctions Philosophiques</h1>
+        <input type="text" id="philoInput" class="form-control" placeholder="Entrez un concept philosophique">
+        <button class="btn btn-primary w-100 mt-3" onclick="loadDistinctions()">Entrer</button>
+
+        <!-- Bloc où les distinctions seront affichées -->
+        <div id="result" class="result-box" style="display:none;">
+            <h3 id="concept" style="text-align: center;"></h3>
+            <div id="distinctions"></div>
+        </div>
+    </div>
+</div>
+
+<!-- Bootstrap JS and dependencies -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+
+<script>
+    // Fonction pour charger les distinctions depuis un fichier JSON
+    function loadDistinctions() {
+        const input = document.getElementById('philoInput').value.trim().toLowerCase();
+        const resultBox = document.getElementById('result');
+        const conceptTitle = document.getElementById('concept');
+        const distinctionsDiv = document.getElementById('distinctions');
+
+        // Réinitialiser le contenu
+        distinctionsDiv.innerHTML = '';
+        conceptTitle.innerHTML = '';
+
+        // Charger le fichier JSON correspondant au concept
+        if (input) {
+            fetch(`./conceptions/${input}.json`)
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error("Fichier JSON non trouvé");
+                    }
+                    return response.json();
+                })
+                .then(data => {
+                    displayDistinctions(input, data);
+                })
+                .catch(error => {
+                    conceptTitle.innerHTML = "Concept non trouvé";
+                    distinctionsDiv.innerHTML = "Désolé, ce concept n'est pas encore dans notre base de données.";
+                    resultBox.style.display = 'block';
+                });
+        }
+    }
+
+    // Fonction pour afficher les distinctions à partir des données JSON
+    function displayDistinctions(concept, data) {
+        const resultBox = document.getElementById('result');
+        const conceptTitle = document.getElementById('concept');
+        const distinctionsDiv = document.getElementById('distinctions');
+
+        conceptTitle.innerHTML = concept.charAt(0).toUpperCase() + concept.slice(1);
+
+        // Parcourir les distinctions et créer un bloc pour chaque couple
+        data.distinctions.forEach(distinction => {
+            const block = document.createElement('div');
+            block.classList.add('concept-block');
+
+            const concept1 = document.createElement('div');
+            concept1.classList.add('concept-title');
+            concept1.innerHTML = `${distinction.concept_1.nom} :`;
+            const def1 = document.createElement('p');
+            def1.innerHTML = distinction.concept_1.definition;
+
+            const concept2 = document.createElement('div');
+            concept2.classList.add('concept-title');
+            concept2.innerHTML = `${distinction.concept_2.nom} :`;
+            const def2 = document.createElement('p');
+            def2.innerHTML = distinction.concept_2.definition;
+
+            const opposition = document.createElement('div');
+            opposition.classList.add('opposition');
+            opposition.innerHTML = `Opposition : ${distinction.opposition}`;
+
+            block.appendChild(concept1);
+            block.appendChild(def1);
+            block.appendChild(concept2);
+            block.appendChild(def2);
+            block.appendChild(opposition);
+
+            distinctionsDiv.appendChild(block);
+        });
+
+        resultBox.style.display = 'block';
+    }
+</script>
+
+</body>
+</html>

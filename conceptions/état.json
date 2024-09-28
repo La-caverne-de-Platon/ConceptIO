@@ -1,0 +1,92 @@
+{
+    "distinctions": [
+      {
+        "concept_1": {
+          "nom": "État de nature selon Hobbes",
+          "definition": "Pour Hobbes, l'état de nature est une situation de guerre de tous contre tous, où les individus sont mus par leur instinct de survie. Pour échapper à cette violence, les hommes concluent un contrat social et renoncent à leur liberté naturelle en faveur d'un souverain absolu."
+        },
+        "concept_2": {
+          "nom": "État de nature selon Locke",
+          "definition": "Pour Locke, l'état de nature est un état de liberté et d'égalité, où les hommes jouissent de droits naturels comme la vie, la liberté et la propriété. Cependant, en l'absence de garanties légales, ils concluent un contrat social pour protéger ces droits."
+        },
+        "opposition": "Chez Hobbes, l'état de nature est un état de guerre et de violence, tandis que chez Locke, il est un état de liberté, bien que fragile sans lois."
+      },
+      {
+        "concept_1": {
+          "nom": "État autoritaire",
+          "definition": "Dans un État autoritaire, le pouvoir est concentré entre les mains d'un seul individu ou d'un groupe restreint. Les libertés individuelles sont limitées et le pouvoir est exercé de manière coercitive pour maintenir l'ordre."
+        },
+        "concept_2": {
+          "nom": "État démocratique",
+          "definition": "Dans un État démocratique, le pouvoir est exercé par le peuple ou ses représentants élus. Les libertés individuelles sont protégées et les décisions politiques sont prises de manière collective et transparente."
+        },
+        "opposition": "L'État autoritaire concentre le pouvoir et limite les libertés, tandis que l'État démocratique repose sur la participation citoyenne et la protection des droits individuels."
+      },
+      {
+        "concept_1": {
+          "nom": "État minimal (libéralisme classique)",
+          "definition": "L'État minimal, tel que défendu par les libéraux classiques comme Locke, a pour rôle de protéger les droits naturels des individus (vie, liberté, propriété) et d'assurer la sécurité. Il n'intervient pas dans l'économie ou les affaires privées des citoyens."
+        },
+        "concept_2": {
+          "nom": "État providence",
+          "definition": "L'État providence, au contraire, intervient activement dans la société pour garantir un certain niveau de bien-être à ses citoyens. Il prend en charge des domaines comme la santé, l'éducation et la sécurité sociale."
+        },
+        "opposition": "L'État minimal limite son rôle à la protection des droits fondamentaux, tandis que l'État providence intervient activement pour garantir le bien-être de la population."
+      },
+      {
+        "concept_1": {
+          "nom": "Contrat social selon Rousseau",
+          "definition": "Pour Rousseau, le contrat social est un accord par lequel les individus renoncent à leur liberté naturelle pour obtenir la liberté civile, en se soumettant à la volonté générale. L'État doit refléter cette volonté générale pour être légitime."
+        },
+        "concept_2": {
+          "nom": "Contrat social selon Hobbes",
+          "definition": "Pour Hobbes, le contrat social est un pacte par lequel les individus renoncent à leur liberté naturelle en faveur d'un souverain absolu, qui garantit la paix et la sécurité. L'État est légitime tant qu'il assure la protection des citoyens."
+        },
+        "opposition": "Chez Rousseau, le contrat social vise à instaurer la volonté générale et la liberté civile, tandis que chez Hobbes, il vise à instaurer un pouvoir absolu pour garantir la sécurité."
+      },
+      {
+        "concept_1": {
+          "nom": "État de droit",
+          "definition": "L'État de droit est un système dans lequel l'exercice du pouvoir est soumis au respect des lois. Les gouvernants sont eux-mêmes soumis à la loi, et les droits fondamentaux des citoyens sont protégés par des institutions juridiques."
+        },
+        "concept_2": {
+          "nom": "État de police",
+          "definition": "L'État de police est un système dans lequel le pouvoir exécutif exerce un contrôle direct et autoritaire sur les citoyens, souvent au mépris des libertés individuelles et des lois. La police et les forces de l'ordre y jouent un rôle central."
+        },
+        "opposition": "L'État de droit garantit le respect des lois et des libertés, tandis que l'État de police impose un contrôle autoritaire et limite les libertés individuelles."
+      },
+      {
+        "concept_1": {
+          "nom": "État et justice chez Platon",
+          "definition": "Pour Platon, l'État idéal est celui où chaque classe sociale (dirigeants, guerriers, producteurs) remplit sa fonction propre, en accord avec la justice. L'État doit être gouverné par des philosophes-rois, qui possèdent la sagesse et la connaissance du Bien."
+        },
+        "concept_2": {
+          "nom": "État et justice chez Aristote",
+          "definition": "Pour Aristote, l'État est une communauté politique qui vise le bien commun. La justice consiste à donner à chacun ce qui lui est dû, en fonction de ses mérites et de sa contribution à la société."
+        },
+        "opposition": "Chez Platon, la justice consiste en l'harmonie des classes sociales sous la direction des philosophes, tandis que chez Aristote, elle repose sur la distribution équitable des biens et des honneurs en fonction des mérites."
+      },
+      {
+        "concept_1": {
+          "nom": "État totalitaire",
+          "definition": "L'État totalitaire est un régime politique dans lequel l'État contrôle tous les aspects de la vie publique et privée. Il repose sur une idéologie unique, un parti unique, et utilise la propagande et la répression pour maintenir son pouvoir."
+        },
+        "concept_2": {
+          "nom": "État libéral",
+          "definition": "L'État libéral repose sur la protection des libertés individuelles et la limitation du pouvoir de l'État. Il garantit les droits fondamentaux des citoyens et laisse une grande autonomie à la société civile et à l'économie."
+        },
+        "opposition": "L'État totalitaire contrôle tous les aspects de la vie des citoyens, tandis que l'État libéral protège les libertés individuelles et limite l'intervention de l'État."
+      },
+      {
+        "concept_1": {
+          "nom": "État et tolérance chez Locke",
+          "definition": "Pour Locke, l'État doit garantir la tolérance religieuse et la liberté de conscience. Il ne doit pas intervenir dans les affaires religieuses, car la foi relève de la sphère privée et ne peut être imposée par la force."
+        },
+        "concept_2": {
+          "nom": "État et religion chez Platon",
+          "definition": "Pour Platon, l'État doit être guidé par des principes divins et harmonieux, reflétant l'ordre du cosmos. La religion joue un rôle central dans l'éducation des citoyens et dans la légitimation de l'autorité politique."
+        },
+        "opposition": "Chez Locke, l'État doit rester neutre en matière de religion et garantir la tolérance, tandis que chez Platon, l'État doit s'inspirer de principes religieux pour guider la vie publique."
+      }
+    ]
+  }

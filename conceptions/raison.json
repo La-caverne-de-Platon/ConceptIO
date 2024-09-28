@@ -1,0 +1,169 @@
+{
+    "distinctions": [
+      {
+        "concept_1": {
+          "nom": "Raison pratique (Kant)",
+          "definition": "Pour Kant, la raison pratique est la faculté qui permet à l'homme de déterminer la loi morale. Elle guide l'action humaine en s'appuyant sur des principes universels et nécessaires, indépendants des désirs ou des inclinations. La raison pratique est à la base de l'autonomie morale."
+        },
+        "concept_2": {
+          "nom": "Raison théorique (Kant)",
+          "definition": "La raison théorique, chez Kant, est la faculté qui permet de connaître le monde phénoménal, c'est-à-dire le monde tel qu'il apparaît à nos sens. Elle est limitée par les conditions de l'expérience sensible et ne peut pas accéder aux choses en soi (noumènes)."
+        },
+        "opposition": "La raison pratique concerne l'action morale et l'autonomie, tandis que la raison théorique se limite à la connaissance des phénomènes sensibles et ne peut pas atteindre les réalités métaphysiques."
+      },
+      {
+        "concept_1": {
+          "nom": "Raison et Volonté (Schopenhauer)",
+          "definition": "Pour Schopenhauer, la raison est subordonnée à la Volonté, une force irrationnelle et aveugle qui gouverne la nature et l'existence humaine. La raison est un outil au service de la Volonté, mais elle ne peut pas la contrôler. L'homme est fondamentalement soumis à ses désirs et instincts."
+        },
+        "concept_2": {
+          "nom": "Raison et liberté (Kant)",
+          "definition": "Chez Kant, la raison est la condition de la liberté morale. L'homme est libre lorsqu'il agit conformément à la loi morale dictée par la raison, et non lorsqu'il suit ses désirs ou ses inclinations. La raison permet à l'homme de s'émanciper de la nature et de ses instincts."
+        },
+        "opposition": "Schopenhauer voit la raison comme un outil au service de la Volonté, tandis que Kant la considère comme la condition de la liberté morale, permettant à l'homme de s'émanciper de ses désirs."
+      },
+      {
+        "concept_1": {
+          "nom": "Raison et connaissance des Idées (Platon)",
+          "definition": "Pour Platon, la raison est la faculté qui permet à l'homme de s'élever au-delà du monde sensible pour atteindre la connaissance des Idées, qui sont des réalités immuables et parfaites. La raison est donc un moyen d'accéder à la vérité universelle."
+        },
+        "concept_2": {
+          "nom": "Raison et phénomènes (Kant)",
+          "definition": "Chez Kant, la raison ne peut connaître que les phénomènes, c'est-à-dire les objets tels qu'ils apparaissent à nos sens. Elle ne peut pas atteindre les choses en soi (noumènes), qui échappent à toute connaissance rationnelle. La raison est donc limitée dans sa portée."
+        },
+        "opposition": "Platon voit la raison comme un moyen d'accéder à des réalités transcendantes (les Idées), tandis que Kant limite la raison à la connaissance des phénomènes sensibles, sans accès aux noumènes."
+      },
+      {
+        "concept_1": {
+          "nom": "Raison et science (Descartes)",
+          "definition": "Pour Descartes, la raison est la faculté qui permet de connaître le monde de manière certaine et universelle. Elle est à la base de la méthode scientifique, qui repose sur des principes clairs et distincts. La raison est donc un outil de maîtrise et de compréhension du monde naturel."
+        },
+        "concept_2": {
+          "nom": "Raison et contemplation (Schopenhauer)",
+          "definition": "Chez Schopenhauer, la raison ne permet pas de maîtriser le monde, mais plutôt de le contempler. La connaissance véritable réside dans l'intuition esthétique, qui permet d'échapper à la Volonté et de contempler les Idées platoniciennes. La raison est donc subordonnée à l'intuition."
+        },
+        "opposition": "Descartes voit la raison comme un outil de maîtrise scientifique du monde, tandis que Schopenhauer la subordonne à l'intuition esthétique, qui permet de contempler les Idées et d'échapper à la Volonté."
+      },
+      {
+        "concept_1": {
+          "nom": "Raison et Logos (Stoïcisme)",
+          "definition": "Pour les stoïciens, la raison (Logos) est une force universelle qui gouverne le cosmos. L'homme doit vivre en accord avec cette raison cosmique, en maîtrisant ses passions et en acceptant le destin. La raison est donc une force à la fois individuelle et universelle."
+        },
+        "concept_2": {
+          "nom": "Raison et passions (Hume)",
+          "definition": "Pour Hume, la raison est esclave des passions. Elle ne peut que calculer les moyens d'atteindre les fins dictées par les désirs et les émotions. La raison n'a donc pas de pouvoir autonome et est toujours subordonnée aux passions humaines."
+        },
+        "opposition": "Les stoïciens voient la raison comme une force universelle qui doit guider l'action humaine, tandis que Hume considère la raison comme subordonnée aux passions, incapable de les maîtriser."
+      },
+      {
+        "concept_1": {
+          "nom": "Raison et dialectique (Hegel)",
+          "definition": "Pour Hegel, la raison est dialectique : elle se déploie à travers un processus de contradictions et de dépassements (Aufhebung) qui mènent à une synthèse supérieure. La raison est donc dynamique et évolutive, et elle se réalise pleinement dans l'Esprit absolu."
+        },
+        "concept_2": {
+          "nom": "Raison et intuition (Bergson)",
+          "definition": "Chez Bergson, la raison est utile pour les sciences et la manipulation du monde matériel, mais elle ne peut pas saisir la réalité profonde du temps et de la vie. Seule l'intuition, qui est une forme de sympathie avec le mouvement vital, permet de comprendre la durée et l'élan vital."
+        },
+        "opposition": "Hegel voit la raison comme un processus dialectique qui mène à la vérité absolue, tandis que Bergson la limite aux sciences et lui oppose l'intuition comme moyen de saisir la réalité profonde de la vie."
+      },
+      {
+        "concept_1": {
+          "nom": "Raison et liberté (Sartre)",
+          "definition": "Pour Sartre, la raison est un outil que l'homme utilise pour donner un sens à un monde absurde. L'homme est fondamentalement libre, mais cette liberté est angoissante car elle implique l'absence de fondements rationnels ou objectifs. La raison est donc un moyen de structurer cette liberté."
+        },
+        "concept_2": {
+          "nom": "Raison et déterminisme (Spinoza)",
+          "definition": "Chez Spinoza, la raison permet de comprendre les lois nécessaires qui gouvernent la nature et les actions humaines. L'homme n'est pas libre au sens kantien, mais il peut atteindre une forme de liberté en comprenant et en acceptant cette nécessité rationnelle."
+        },
+        "opposition": "Sartre voit la raison comme un outil pour structurer une liberté radicale et angoissante, tandis que Spinoza la considère comme un moyen de comprendre la nécessité qui gouverne le monde, offrant ainsi une forme de liberté dans l'acceptation de cette nécessité."
+      },
+      {
+        "concept_1": {
+          "nom": "Raison et foi (al-Kindi)",
+          "definition": "Pour al-Kindi, philosophe islamique, il existe une harmonie parfaite entre la raison et la foi. La philosophie et la révélation divine ne diffèrent pas dans leur contenu, mais seulement dans leur méthode. La raison humaine peut donc être utilisée pour comprendre et approfondir les vérités révélées."
+        },
+        "concept_2": {
+          "nom": "Raison et révélation (Avicenne)",
+          "definition": "Avicenne tente de concilier la philosophie grecque avec la révélation islamique. Il soutient que la raison peut mener à la compréhension des vérités métaphysiques, mais que certaines vérités, comme la création du monde, nécessitent la révélation divine pour être pleinement comprises."
+        },
+        "opposition": "Al-Kindi voit une harmonie parfaite entre raison et foi, tandis qu'Avicenne admet que certaines vérités échappent à la raison humaine et nécessitent la révélation."
+      },
+      {
+        "concept_1": {
+          "nom": "Raison et monade (Leibniz)",
+          "definition": "Pour Leibniz, la raison divine a choisi le meilleur des mondes possibles parmi une infinité de possibilités. La réalité est composée de monades, des substances simples et immatérielles, qui sont en harmonie préétablie. La raison humaine peut comprendre cette harmonie à travers la métaphysique."
+        },
+        "concept_2": {
+          "nom": "Raison et contingence (Leibniz)",
+          "definition": "Leibniz soutient également que la raison divine a choisi ce monde en fonction de la meilleure combinaison possible de nécessité et de contingence. La liberté divine coïncide avec la raison, et la contingence des événements dans le monde n'est pas en contradiction avec la rationalité."
+        },
+        "opposition": "Leibniz voit la raison comme un principe qui régit à la fois la nécessité et la contingence dans le monde, tout en affirmant que la raison humaine peut comprendre l'harmonie préétablie des monades."
+      },
+      {
+        "concept_1": {
+          "nom": "Raison et critique (Socrate)",
+          "definition": "Pour Socrate, la raison est avant tout un outil critique. Elle permet de remettre en question les croyances et les préjugés à travers le dialogue. La méthode socratique, basée sur l'ironie et la maïeutique, vise à faire émerger la vérité en confrontant les erreurs de l'interlocuteur."
+        },
+        "concept_2": {
+          "nom": "Raison et sagesse pratique (Socrate)",
+          "definition": "Socrate voit également la raison comme un moyen d'atteindre la sagesse pratique. En se connaissant soi-même et en examinant rationnellement ses propres actions, l'homme peut vivre une vie juste et bonne, en accord avec les valeurs universelles du bien et du juste."
+        },
+        "opposition": "Socrate utilise la raison à la fois comme un outil critique pour déconstruire les fausses croyances et comme un moyen d'atteindre la sagesse pratique et morale."
+      },
+      {
+        "concept_1": {
+          "nom": "Raison et illusion (Schopenhauer)",
+          "definition": "Pour Schopenhauer, la raison est souvent trompée par le 'voile de Maya', une illusion qui cache la véritable nature des choses. La raison est limitée par les apparences phénoménales et ne peut pas atteindre la réalité ultime, qui est la Volonté irrationnelle."
+        },
+        "concept_2": {
+          "nom": "Raison et détachement (Schopenhauer)",
+          "definition": "Schopenhauer voit également la raison comme un moyen de se détacher du monde des apparences. En comprenant la nature illusoire du monde phénoménal, l'homme peut s'élever au-dessus de la Volonté et atteindre une forme de sagesse et de tranquillité."
+        },
+        "opposition": "Schopenhauer critique la raison pour son incapacité à voir au-delà des illusions, mais il lui accorde aussi un rôle dans le processus de détachement et de libération de la Volonté."
+      },
+      {
+        "concept_1": {
+          "nom": "Raison et dialectique transcendantale (Kant)",
+          "definition": "Chez Kant, la raison cherche à dépasser les limites de l'expérience pour atteindre l'infini et l'inconditionnel. Elle tente d'unifier les données du sens interne (l'idée de l'âme) et du sens externe (l'idée du monde) pour comprendre la totalité substantielle du réel."
+        },
+        "concept_2": {
+          "nom": "Raison et limites (Kant)",
+          "definition": "Kant souligne également les limites de la raison. Elle ne peut pas connaître les choses en soi (noumènes) et se heurte à des antinomies lorsqu'elle tente de dépasser les frontières de l'expérience possible. La raison doit donc accepter ses propres limites."
+        },
+        "opposition": "Kant voit la raison comme une faculté qui cherche à unifier les données de l'expérience, mais il insiste également sur ses limites et son incapacité à connaître les noumènes."
+      },
+      {
+        "concept_1": {
+          "nom": "Raison et volonté de puissance (Nietzsche)",
+          "definition": "Pour Nietzsche, la raison est un outil au service de la volonté de puissance. Elle n'est pas une faculté neutre ou désintéressée, mais une manière pour l'homme d'imposer sa volonté et de structurer le monde selon ses propres valeurs."
+        },
+        "concept_2": {
+          "nom": "Raison et nihilisme (Nietzsche)",
+          "definition": "Nietzsche critique également la raison pour son rôle dans la naissance du nihilisme. En cherchant des vérités absolues et en niant la valeur des instincts et des passions, la raison a conduit à une dévalorisation du monde et à la perte de sens."
+        },
+        "opposition": "Nietzsche voit la raison à la fois comme un outil de la volonté de puissance et comme une force destructrice qui a conduit au nihilisme en niant les instincts vitaux."
+      },
+      {
+        "concept_1": {
+          "nom": "Raison et harmonie cosmique (Stoïcisme)",
+          "definition": "Pour les stoïciens, la raison (Logos) est une force universelle qui gouverne le cosmos. L'homme doit vivre en accord avec cette raison cosmique, en acceptant le destin et en maîtrisant ses passions. La raison est donc à la fois une force individuelle et universelle."
+        },
+        "concept_2": {
+          "nom": "Raison et indifférence au destin (Stoïcisme)",
+          "definition": "Les stoïciens soutiennent également que la raison permet de développer une indifférence au destin. En comprenant que tout est régi par la nécessité cosmique, l'homme peut atteindre l'ataraxie, un état de tranquillité intérieure face aux événements extérieurs."
+        },
+        "opposition": "Les stoïciens voient la raison comme un moyen de vivre en harmonie avec l'ordre cosmique, tout en développant une indifférence aux événements extérieurs grâce à la compréhension rationnelle du destin."
+      },
+      {
+        "concept_1": {
+          "nom": "Raison et domination de la nature (Descartes)",
+          "definition": "Pour Descartes, la raison est l'outil qui permet à l'homme de devenir 'maître et possesseur de la nature'. Grâce à la science et à la méthode rationnelle, l'homme peut comprendre et dominer les lois de la nature pour améliorer sa condition."
+        },
+        "concept_2": {
+          "nom": "Raison et doute méthodique (Descartes)",
+          "definition": "Descartes utilise également la raison dans le cadre du doute méthodique. En remettant en question toutes ses croyances, l'homme peut parvenir à des vérités certaines, comme le célèbre 'Cogito, ergo sum'. La raison est donc un outil de certitude."
+        },
+        "opposition": "Descartes voit la raison comme un moyen de dominer la nature par la science, mais aussi comme un outil de certitude à travers le doute méthodique."
+      }
+    ]
+  }

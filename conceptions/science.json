@@ -1,0 +1,169 @@
+{
+    "distinctions": [
+      {
+        "concept_1": {
+          "nom": "Science et connaissance des objets (Jaspers)",
+          "definition": "Pour Jaspers, la science permet la connaissance des objets 'dans' le monde, mais elle ne permet pas la compréhension de l'être lui-même. L'être reste un horizon transcendant que la science ne peut atteindre."
+        },
+        "concept_2": {
+          "nom": "Philosophie et clarification de l'existence (Jaspers)",
+          "definition": "Jaspers distingue la philosophie de la science en affirmant que la philosophie est la clarification de l'existence. Elle révèle à l'homme sa liberté et sa contingence, ainsi que la possibilité d'expérimenter la transcendance."
+        },
+        "opposition": "Jaspers voit la science comme limitée à la connaissance des objets du monde, tandis que la philosophie permet de comprendre l'être et la transcendance."
+      },
+      {
+        "concept_1": {
+          "nom": "Science théorétique (Aristote)",
+          "definition": "Aristote divise la science théorétique en trois parties : la philosophie première (métaphysique), la physique et les mathématiques. Ces sciences ont pour fin la connaissance désintéressée de la réalité à travers la méthode démonstrative."
+        },
+        "concept_2": {
+          "nom": "Science créative (Aristote)",
+          "definition": "Aristote distingue également la science créative, qui se divise en deux parties. Cette science concerne la manipulation d'objets ou la réalisation d'une œuvre, et elle est orientée vers la production plutôt que la simple connaissance."
+        },
+        "opposition": "La science théorétique chez Aristote vise la connaissance désintéressée, tandis que la science créative est orientée vers la production et la transformation du monde."
+      },
+      {
+        "concept_1": {
+          "nom": "Science et pseudo-concepts (Document 4)",
+          "definition": "Dans une perspective critique, la science repose sur des pseudo-concepts empiriques ou abstraits qui n'ont pas de véritable valeur logico-théorique, mais seulement une valeur pratique."
+        },
+        "concept_2": {
+          "nom": "Philosophie et concepts purs (Document 4)",
+          "definition": "La philosophie, en revanche, va au-delà de l'intuition empirique pour saisir les concepts purs, qui sont à la fois concrets et universels. Elle vise une compréhension plus profonde que la simple utilité pratique."
+        },
+        "opposition": "La science est critiquée pour son usage de pseudo-concepts pratiques, tandis que la philosophie cherche à saisir des concepts universels et théoriques."
+      },
+      {
+        "concept_1": {
+          "nom": "Science et explication (Ricœur)",
+          "definition": "Pour Ricœur, la méthode scientifique est au service de la vérité, et la compréhension philosophique peut bénéficier d'un dialogue avec l'explication scientifique. La science apporte des explications précises, mais la philosophie cherche à comprendre le sens plus profond."
+        },
+        "concept_2": {
+          "nom": "Philosophie et compréhension (Ricœur)",
+          "definition": "Ricœur souligne que la compréhension philosophique va au-delà de l'explication scientifique. Elle s'intéresse à l'interprétation et à la signification des phénomènes, notamment à travers des méthodes herméneutiques."
+        },
+        "opposition": "Ricœur voit la science comme une méthode d'explication, tandis que la philosophie cherche à comprendre le sens et l'interprétation des phénomènes."
+      },
+      {
+        "concept_1": {
+          "nom": "Science et physique mécaniste (Document 6)",
+          "definition": "La physique mécaniste repose sur l'idée que tout phénomène a une explication mécaniste. Selon cette perspective, tout est fait d'atomes en mouvement, et les interactions entre eux sont régies par des lois déterministes."
+        },
+        "concept_2": {
+          "nom": "Science et déviation aléatoire (Document 6)",
+          "definition": "Cependant, cette vision mécaniste est nuancée par l'idée du clinamen, une déviation aléatoire des atomes qui permet l'apparition de nouvelles interactions. Cela introduit une part d'indétermination dans le fonctionnement de la nature."
+        },
+        "opposition": "La science mécaniste classique est déterministe, mais l'idée du clinamen introduit une part d'aléatoire et d'indétermination dans la physique atomiste."
+      },
+      {
+        "concept_1": {
+          "nom": "Philosophie et recherche encyclopédique (Aristote)",
+          "definition": "Pour Aristote, la philosophie est une recherche systématique qui vise à unifier les connaissances spécialisées des autres disciplines. Elle cherche à définir une méthode et un objet pour chaque domaine disciplinaire, tout en cherchant un sens unifié du monde."
+        },
+        "concept_2": {
+          "nom": "Science et spécialisation (Aristote)",
+          "definition": "La science, selon Aristote, se divise en disciplines spécialisées qui reflètent la réalité des choses. Chaque discipline a son propre objet et sa propre méthode, mais elles sont autonomes les unes par rapport aux autres."
+        },
+        "opposition": "Aristote voit la philosophie comme une tentative d'unifier les savoirs spécialisés des sciences, tandis que les sciences elles-mêmes sont autonomes et se concentrent sur des objets spécifiques."
+      },
+      {
+        "concept_1": {
+          "nom": "Science et méthode démonstrative (Aristote)",
+          "definition": "Pour Aristote, la science théorétique repose sur la méthode démonstrative. Elle vise à établir des vérités universelles à partir de principes premiers, en particulier dans les domaines de la métaphysique, de la physique et des mathématiques."
+        },
+        "concept_2": {
+          "nom": "Science pratique (Aristote)",
+          "definition": "Aristote distingue également la science pratique, qui s'intéresse aux actions humaines et aux décisions éthiques. Elle a pour méthode la délibération et pour objet ce qui est contingent, c'est-à-dire ce qui peut être autrement."
+        },
+        "opposition": "La science théorétique d'Aristote cherche des vérités universelles par démonstration, tandis que la science pratique s'intéresse aux actions humaines et aux décisions éthiques, qui sont contingentes."
+      },
+      {
+        "concept_1": {
+          "nom": "Science et expérience (Bacon)",
+          "definition": "Francis Bacon est l'un des premiers à défendre l'idée que la science doit se fonder sur l'observation empirique et l'expérience. Il rejette les spéculations abstraites et insiste sur l'importance de l'induction pour découvrir les lois de la nature."
+        },
+        "concept_2": {
+          "nom": "Science et déduction (Descartes)",
+          "definition": "Descartes, en revanche, privilégie la méthode déductive. Il pense que la science doit partir de principes clairs et distincts, et en déduire des vérités à travers des raisonnements logiques rigoureux, sans nécessairement passer par l'expérience."
+        },
+        "opposition": "Bacon privilégie l'induction et l'expérience pour découvrir les lois de la nature, tandis que Descartes défend la déduction à partir de principes rationnels comme méthode scientifique."
+      },
+      {
+        "concept_1": {
+          "nom": "Science et explication mécaniste (Épicurisme)",
+          "definition": "Dans la physique épicurienne, tout phénomène naturel est expliqué par des interactions d'atomes en mouvement dans le vide. Cette approche mécaniste exclut toute intervention divine ou finalité dans la nature."
+        },
+        "concept_2": {
+          "nom": "Science et finalité (Aristote)",
+          "definition": "Aristote, en revanche, soutient que la nature agit toujours en vue d'une fin (téléologie). Chaque phénomène naturel a une cause finale, c'est-à-dire une raison d'être ou un but, en plus des causes matérielles et efficientes."
+        },
+        "opposition": "L'épicurisme adopte une vision mécaniste et atomiste de la nature, tandis qu'Aristote introduit une dimension téléologique, où les phénomènes naturels sont orientés vers une finalité."
+      },
+      {
+        "concept_1": {
+          "nom": "Science et certitude (Descartes)",
+          "definition": "Pour Descartes, la science doit viser la certitude absolue. Il cherche à établir des vérités indubitables en partant de principes clairs et distincts, comme le célèbre 'Cogito, ergo sum'."
+        },
+        "concept_2": {
+          "nom": "Science et probabilité (Hume)",
+          "definition": "David Hume, en revanche, soutient que la science ne peut jamais atteindre la certitude absolue. Elle repose sur des inférences inductives, qui ne garantissent que des probabilités, et non des vérités nécessaires."
+        },
+        "opposition": "Descartes cherche la certitude absolue dans la science, tandis que Hume souligne que la science ne peut offrir que des conclusions probables, fondées sur l'induction."
+      },
+      {
+        "concept_1": {
+          "nom": "Science et utilité (Bacon)",
+          "definition": "Pour Bacon, la science doit être utile à l'humanité. Elle doit permettre de maîtriser la nature et d'améliorer les conditions de vie des hommes, en produisant des inventions et des technologies pratiques."
+        },
+        "concept_2": {
+          "nom": "Science désintéressée (Aristote)",
+          "definition": "Aristote, en revanche, soutient que la science théorétique doit être désintéressée. Elle vise la connaissance pour elle-même, sans chercher à produire des applications pratiques ou des bénéfices matériels."
+        },
+        "opposition": "Bacon défend une science utile et appliquée, tandis qu'Aristote valorise une science désintéressée, qui cherche la connaissance pour elle-même."
+      },
+      {
+        "concept_1": {
+          "nom": "Science et observation (Galilée)",
+          "definition": "Galilée révolutionne la science en insistant sur l'importance de l'observation et de l'expérimentation. Il utilise des instruments comme le télescope pour observer les phénomènes célestes et remettre en question les théories traditionnelles."
+        },
+        "concept_2": {
+          "nom": "Science et spéculation (Platon)",
+          "definition": "Platon, en revanche, accorde moins d'importance à l'observation des phénomènes sensibles. Il privilégie la spéculation intellectuelle et la contemplation des Idées, qui sont les vérités éternelles et immuables."
+        },
+        "opposition": "Galilée met l'accent sur l'observation et l'expérimentation, tandis que Platon privilégie la spéculation intellectuelle et la contemplation des Idées."
+      },
+      {
+        "concept_1": {
+          "nom": "Science et progrès (Comte)",
+          "definition": "Pour Auguste Comte, la science progresse de manière linéaire à travers trois étapes : l'état théologique, l'état métaphysique et enfin l'état positif, où la science se fonde uniquement sur l'observation des faits et le rejet des spéculations."
+        },
+        "concept_2": {
+          "nom": "Science et crise (Kuhn)",
+          "definition": "Thomas Kuhn, en revanche, soutient que la science progresse par des révolutions, et non de manière linéaire. Les périodes de science normale sont interrompues par des crises, qui conduisent à des changements de paradigme."
+        },
+        "opposition": "Comte voit la science comme un progrès linéaire vers l'état positif, tandis que Kuhn propose une vision non linéaire, marquée par des crises et des révolutions scientifiques."
+      },
+      {
+        "concept_1": {
+          "nom": "Science et vérité (Popper)",
+          "definition": "Pour Karl Popper, la science ne peut jamais prouver une théorie de manière définitive. Elle progresse par conjectures et réfutations, en rejetant les théories qui sont falsifiées par l'expérience."
+        },
+        "concept_2": {
+          "nom": "Science et vérification (Carnap)",
+          "definition": "Rudolf Carnap, en revanche, soutient que la science doit se fonder sur la vérification empirique. Une théorie scientifique est valide si elle peut être vérifiée par l'observation et l'expérience."
+        },
+        "opposition": "Popper insiste sur la falsifiabilité des théories scientifiques, tandis que Carnap met l'accent sur la vérification empirique pour valider une théorie."
+      },
+      {
+        "concept_1": {
+          "nom": "Science et contingence (Heisenberg)",
+          "definition": "Avec le principe d'incertitude d'Heisenberg, la science moderne reconnaît que certaines propriétés des particules subatomiques ne peuvent pas être déterminées avec précision. La science doit donc accepter une part de contingence et d'indétermination."
+        },
+        "concept_2": {
+          "nom": "Science et déterminisme (Newton)",
+          "definition": "La science classique, représentée par Newton, repose sur le déterminisme. Selon cette vision, les lois de la nature sont fixes et permettent de prédire avec certitude le comportement des objets physiques."
+        },
+        "opposition": "Heisenberg introduit une part d'indétermination dans la science moderne, tandis que Newton défend un déterminisme rigoureux dans la science classique."
+      }
+    ]
+  }

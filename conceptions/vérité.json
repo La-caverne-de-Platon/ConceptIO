@@ -1,0 +1,180 @@
+{
+    "distinctions": [
+      {
+        "concept_1": {
+          "nom": "Vérité et correspondance (Aristote)",
+          "definition": "Pour Aristote, la vérité est une correspondance entre la pensée et la réalité. Une proposition est vraie si elle dit ce qui est, et fausse si elle dit ce qui n'est pas. La vérité est donc une adéquation entre ce que nous disons et ce qui est réellement."
+        },
+        "concept_2": {
+          "nom": "Vérité et cohérence (Spinoza)",
+          "definition": "Spinoza, en revanche, voit la vérité comme une question de cohérence interne. Une idée est vraie si elle est cohérente avec l'ensemble des autres idées vraies. La vérité ne dépend pas seulement de la correspondance avec la réalité extérieure, mais de la cohérence du système de pensée."
+        },
+        "opposition": "Aristote voit la vérité comme une correspondance entre la pensée et la réalité, tandis que Spinoza insiste sur la cohérence interne des idées comme critère de vérité."
+      },
+      {
+        "concept_1": {
+          "nom": "Vérité et utilité (William James)",
+          "definition": "Pour William James, la vérité est ce qui fonctionne dans la pratique. Une croyance est vraie si elle nous aide à nous orienter dans le monde et à résoudre des problèmes. La vérité est donc pragmatique : elle est liée à l'utilité d'une idée dans l'expérience."
+        },
+        "concept_2": {
+          "nom": "Vérité et absolu (Platon)",
+          "definition": "Platon, en revanche, voit la vérité comme absolue et indépendante de l'expérience humaine. La vérité réside dans les Idées ou Formes, qui sont des réalités immuables et parfaites. Le monde sensible n'est qu'une ombre de ces vérités éternelles."
+        },
+        "opposition": "William James voit la vérité comme pragmatique et liée à l'utilité, tandis que Platon la considère comme absolue, immuable et indépendante de l'expérience humaine."
+      },
+      {
+        "concept_1": {
+          "nom": "Vérité et relativisme (Protagoras)",
+          "definition": "Protagoras affirme que 'l'homme est la mesure de toutes choses', ce qui signifie que la vérité est relative à chaque individu. Ce qui est vrai pour une personne peut ne pas l'être pour une autre. La vérité est donc subjective et dépend de la perception individuelle."
+        },
+        "concept_2": {
+          "nom": "Vérité et objectivité (Descartes)",
+          "definition": "Descartes, en revanche, cherche une vérité objective et universelle. Il fonde cette vérité sur la certitude du 'cogito' ('Je pense, donc je suis'), qui est une vérité indubitable. La vérité doit être claire et distincte, et ne dépend pas des perceptions individuelles."
+        },
+        "opposition": "Protagoras voit la vérité comme relative et subjective, tandis que Descartes cherche une vérité objective, fondée sur des certitudes universelles."
+      },
+      {
+        "concept_1": {
+          "nom": "Vérité et dévoilement (Heidegger)",
+          "definition": "Heidegger voit la vérité comme un processus de dévoilement. La vérité n'est pas une simple correspondance ou cohérence, mais un événement où l'être se révèle à nous. La vérité est donc un processus dynamique, dans lequel les choses se manifestent à travers le temps."
+        },
+        "concept_2": {
+          "nom": "Vérité et représentation (Kant)",
+          "definition": "Pour Kant, la vérité est liée à la représentation. Nous ne connaissons pas les choses en elles-mêmes, mais seulement les phénomènes, c'est-à-dire les choses telles qu'elles apparaissent à notre esprit. La vérité est donc une adéquation entre nos représentations et les phénomènes, et non les choses en soi."
+        },
+        "opposition": "Heidegger voit la vérité comme un dévoilement dynamique de l'être, tandis que Kant la considère comme une adéquation entre nos représentations et les phénomènes."
+      },
+      {
+        "concept_1": {
+          "nom": "Vérité et consensus (Habermas)",
+          "definition": "Habermas propose une conception de la vérité fondée sur le consensus. Une proposition est vraie si elle peut être acceptée par tous dans une situation de communication idéale, où les participants sont libres et égaux. La vérité est donc le résultat d'un dialogue rationnel."
+        },
+        "concept_2": {
+          "nom": "Vérité et pouvoir (Nietzsche)",
+          "definition": "Nietzsche, en revanche, critique l'idée d'une vérité objective et universelle. Pour lui, la vérité est une construction liée aux rapports de pouvoir. Ce que nous appelons 'vérité' est souvent le résultat de la volonté de puissance de certains groupes ou individus."
+        },
+        "opposition": "Habermas voit la vérité comme le résultat d'un consensus rationnel, tandis que Nietzsche la considère comme une construction liée aux rapports de pouvoir."
+      },
+      {
+        "concept_1": {
+          "nom": "Vérité et intuition (Bergson)",
+          "definition": "Pour Henri Bergson, la vérité ne peut pas être atteinte uniquement par l'intellect ou la logique. Elle doit être saisie par l'intuition, qui est une forme de connaissance directe et immédiate. L'intuition permet de saisir la réalité dans sa durée et sa complexité, au-delà des concepts figés."
+        },
+        "concept_2": {
+          "nom": "Vérité et démonstration (Descartes)",
+          "definition": "Descartes, en revanche, fonde la vérité sur la démonstration rationnelle. Une proposition est vraie si elle peut être prouvée de manière claire et distincte par l'intellect. La vérité est donc le résultat d'un processus logique et méthodique."
+        },
+        "opposition": "Bergson voit la vérité comme une intuition directe de la réalité, tandis que Descartes la fonde sur la démonstration rationnelle et méthodique."
+      },
+      {
+        "concept_1": {
+          "nom": "Vérité et science (Popper)",
+          "definition": "Pour Karl Popper, la vérité scientifique est toujours provisoire. Une théorie est vraie tant qu'elle n'a pas été réfutée, mais elle reste toujours susceptible d'être falsifiée par de nouvelles expériences. La vérité scientifique est donc une approximation, et non une certitude absolue."
+        },
+        "concept_2": {
+          "nom": "Vérité et certitude (Descartes)",
+          "definition": "Descartes, en revanche, cherche des vérités certaines et indubitables. Il fonde la vérité sur des principes clairs et distincts, comme le 'cogito'. La vérité doit être absolue et ne peut pas être remise en question."
+        },
+        "opposition": "Popper voit la vérité scientifique comme provisoire et falsifiable, tandis que Descartes cherche des vérités absolues et indubitables."
+      },
+      {
+        "concept_1": {
+          "nom": "Vérité et révélation (Saint Augustin)",
+          "definition": "Pour Saint Augustin, la vérité ultime est révélée par Dieu. La vérité humaine est limitée et imparfaite, mais la vérité divine, révélée dans les Écritures, est absolue et parfaite. La foi est donc un moyen d'accéder à la vérité."
+        },
+        "concept_2": {
+          "nom": "Vérité et raison (Spinoza)",
+          "definition": "Spinoza, en revanche, voit la vérité comme accessible par la raison. La vérité est une connaissance adéquate des choses, que nous pouvons atteindre par l'usage de la raison. La vérité n'est pas révélée, mais découverte par l'intellect humain."
+        },
+        "opposition": "Saint Augustin voit la vérité comme révélée par Dieu, tandis que Spinoza la considère comme accessible par la raison humaine."
+      },
+      {
+        "concept_1": {
+          "nom": "Vérité et totalité (Hegel)",
+          "definition": "Pour Hegel, la vérité ne se trouve pas dans une proposition isolée, mais dans la totalité du système. La vérité est le résultat d'un processus dialectique où chaque moment de la réalité se révèle en relation avec les autres. La vérité est donc globale et dynamique."
+        },
+        "concept_2": {
+          "nom": "Vérité et construction humaine (Rorty)",
+          "definition": "Richard Rorty critique l'idée d'une vérité absolue et universelle. Pour lui, la vérité est une construction humaine, qui varie selon les contextes historiques et culturels. Il n'existe pas de fondement ultime à la vérité, celle-ci est contingente et relative."
+        },
+        "opposition": "Hegel voit la vérité comme un processus dialectique qui se déploie dans la totalité du réel, tandis que Rorty la considère comme une construction humaine, relative aux contextes historiques."
+      },
+      {
+        "concept_1": {
+          "nom": "Vérité et multiplicité (Jaspers)",
+          "definition": "Pour Karl Jaspers, la vérité est à la fois multiple et unique. Elle s'incarne dans différentes existences individuelles, qui expriment chacune un aspect de la vérité. La vérité est donc une tâche commune, partagée entre les êtres humains, mais elle reste en même temps transcendante."
+        },
+        "concept_2": {
+          "nom": "Vérité et scepticisme (Pyrrhon)",
+          "definition": "Le scepticisme pyrrhonien remet en question la possibilité d'atteindre une vérité certaine. Pyrrhon soutient que nous devons suspendre notre jugement (épochè) car il est impossible de savoir si nos perceptions et nos raisonnements correspondent à la réalité. La vérité est donc inaccessible."
+        },
+        "opposition": "Jaspers voit la vérité comme multiple et incarnée dans les existences individuelles, tandis que Pyrrhon adopte une position sceptique, affirmant que la vérité est inaccessible."
+      },
+      {
+        "concept_1": {
+          "nom": "Vérité et sensations (Épicure)",
+          "definition": "Pour Épicure, la vérité repose sur trois critères : les sensations, les concepts (prolèpse) et les sentiments de plaisir et de douleur. Les sensations sont la première source de vérité, car elles nous donnent un accès direct à la réalité. La vérité est donc empirique."
+        },
+        "concept_2": {
+          "nom": "Vérité et transcendance (Saint Augustin)",
+          "definition": "Saint Augustin voit la vérité comme transcendante et divine. La vérité ultime est celle de Dieu, qui est immuable et parfaite. Les vérités humaines sont limitées et imparfaites, mais elles peuvent être éclairées par la foi et la révélation divine."
+        },
+        "opposition": "Épicure voit la vérité comme empirique, fondée sur les sensations, tandis que Saint Augustin la considère comme transcendante et révélée par Dieu."
+      },
+      {
+        "concept_1": {
+          "nom": "Vérité et dialogue (Socrate)",
+          "definition": "Pour Socrate, la vérité se découvre à travers le dialogue et la maïeutique. En posant des questions et en confrontant les idées, on peut faire émerger la vérité cachée en chacun. La vérité est donc un processus de découverte, qui se réalise dans l'échange rationnel."
+        },
+        "concept_2": {
+          "nom": "Vérité et pluralité (Hannah Arendt)",
+          "definition": "Hannah Arendt soutient que la vérité est liée à la pluralité des perspectives humaines. La vérité politique, en particulier, ne peut être absolue, car elle dépend des points de vue multiples des citoyens. La vérité est donc toujours partielle et dépendante du contexte social."
+        },
+        "opposition": "Socrate voit la vérité comme un processus de découverte à travers le dialogue, tandis qu'Arendt insiste sur la pluralité des perspectives et la nature partielle de la vérité."
+      },
+      {
+        "concept_1": {
+          "nom": "Vérité et pragmatisme (Dewey)",
+          "definition": "John Dewey, comme William James, voit la vérité comme pragmatique. Une idée est vraie si elle fonctionne dans la pratique et nous aide à résoudre des problèmes. La vérité est donc liée à ses conséquences pratiques et à son utilité dans l'expérience humaine."
+        },
+        "concept_2": {
+          "nom": "Vérité et intuition (Bergson)",
+          "definition": "Henri Bergson considère que la vérité ne peut être atteinte uniquement par l'intellect ou la logique. Elle doit être saisie par l'intuition, qui permet de comprendre la réalité dans sa durée et sa complexité. L'intuition dépasse les concepts figés et permet d'accéder à une vérité plus profonde."
+        },
+        "opposition": "Dewey voit la vérité comme pragmatique et liée à l'utilité pratique, tandis que Bergson insiste sur l'intuition comme moyen d'accéder à une vérité plus profonde que les concepts intellectuels."
+      },
+      {
+        "concept_1": {
+          "nom": "Vérité et contingence (Rorty)",
+          "definition": "Pour Richard Rorty, la vérité est contingente et dépend des contextes historiques et culturels. Il rejette l'idée d'une vérité absolue et universelle, et soutient que la vérité est une construction humaine, toujours susceptible de changer en fonction des circonstances."
+        },
+        "concept_2": {
+          "nom": "Vérité et nécessité (Hegel)",
+          "definition": "Hegel voit la vérité comme nécessaire et dialectique. Elle se déploie à travers un processus historique inévitable, où chaque étape de la réalité est intégrée dans un tout plus grand. La vérité est donc nécessaire, car elle résulte du développement de l'Esprit à travers l'histoire."
+        },
+        "opposition": "Rorty voit la vérité comme contingente et relative aux contextes, tandis que Hegel la considère comme nécessaire et dialectique, se déployant à travers l'histoire."
+      },
+      {
+        "concept_1": {
+          "nom": "Vérité et mécanisme (Démocrite)",
+          "definition": "Pour Démocrite, la vérité est liée à la nature atomique de la réalité. Tout phénomène a une explication mécaniste, et la vérité réside dans la compréhension des interactions entre les atomes. La vérité est donc objective et déterminée par les lois de la nature."
+        },
+        "concept_2": {
+          "nom": "Vérité et subjectivité (Kierkegaard)",
+          "definition": "Søren Kierkegaard, en revanche, insiste sur la subjectivité de la vérité. La vérité la plus importante est celle qui concerne l'existence individuelle et les choix personnels. La vérité n'est pas une question d'objectivité, mais d'engagement personnel et de foi."
+        },
+        "opposition": "Démocrite voit la vérité comme objective et mécaniste, tandis que Kierkegaard insiste sur la dimension subjective et existentielle de la vérité."
+      },
+      {
+        "concept_1": {
+          "nom": "Vérité et logique (Frege)",
+          "definition": "Gottlob Frege voit la vérité comme une propriété des propositions logiques. Une proposition est vraie si elle correspond aux règles de la logique formelle. La vérité est donc objective et indépendante des croyances ou des perceptions humaines."
+        },
+        "concept_2": {
+          "nom": "Vérité et expérience (Hume)",
+          "definition": "David Hume, en revanche, soutient que la vérité est fondée sur l'expérience. Nos connaissances sont limitées à ce que nous pouvons observer et expérimenter. La vérité est donc empirique et dépendante des impressions sensibles que nous recevons du monde."
+        },
+        "opposition": "Frege voit la vérité comme une propriété des propositions logiques, tandis que Hume la fonde sur l'expérience empirique et les impressions sensibles."
+      }
+    ]
+  }

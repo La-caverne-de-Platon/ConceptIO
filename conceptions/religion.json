@@ -1,0 +1,158 @@
+{
+    "distinctions": [
+      {
+        "concept_1": {
+          "nom": "Religion et raison (Al-Kindi)",
+          "definition": "Pour Al-Kindi, il existe une harmonie parfaite entre la raison et la foi. La philosophie et la révélation divine ne diffèrent pas dans leur contenu, mais seulement dans leur méthode. La raison humaine peut être utilisée pour comprendre et approfondir les vérités révélées."
+        },
+        "concept_2": {
+          "nom": "Religion et révélation (Avicenne)",
+          "definition": "Avicenne tente de concilier la philosophie grecque avec la révélation islamique. Il soutient que la raison peut mener à la compréhension des vérités métaphysiques, mais que certaines vérités, comme la création du monde, nécessitent la révélation divine pour être pleinement comprises."
+        },
+        "opposition": "Al-Kindi voit une harmonie parfaite entre raison et foi, tandis qu'Avicenne admet que certaines vérités échappent à la raison humaine et nécessitent la révélation."
+      },
+      {
+        "concept_1": {
+          "nom": "Religion et foi (Al-Ghazali)",
+          "definition": "Pour Al-Ghazali, la foi a la priorité absolue sur la raison. La vérité ne peut être atteinte que par la foi, et la raison humaine est limitée et sujette à l'erreur. Il critique la philosophie pour son incapacité à saisir les vérités divines."
+        },
+        "concept_2": {
+          "nom": "Religion et philosophie (Averroès)",
+          "definition": "Averroès propose que la raison et la foi ne sont pas en contradiction, mais sont deux discours complémentaires. La philosophie et la théologie peuvent coexister, car elles s'adressent à des publics différents : la raison pour les philosophes et la foi pour le grand public."
+        },
+        "opposition": "Al-Ghazali privilégie la foi sur la raison, tandis qu'Averroès soutient que la raison et la foi sont deux voies complémentaires vers la vérité."
+      },
+      {
+        "concept_1": {
+          "nom": "Religion et morale (Kant)",
+          "definition": "Pour Kant, la religion doit être subordonnée à la morale. La vraie religion est celle qui est en accord avec la loi morale dictée par la raison pratique. La foi religieuse doit donc être rationnelle et ne pas contredire les impératifs moraux."
+        },
+        "concept_2": {
+          "nom": "Religion et révélation (Pascal)",
+          "definition": "Pascal soutient que la raison humaine est limitée et que la foi religieuse repose sur une révélation divine qui dépasse la compréhension rationnelle. La foi est un pari, un acte de confiance dans une vérité qui échappe à la raison."
+        },
+        "opposition": "Kant voit la religion comme subordonnée à la morale rationnelle, tandis que Pascal affirme que la foi dépasse la raison et repose sur la révélation divine."
+      },
+      {
+        "concept_1": {
+          "nom": "Religion naturelle (Voltaire)",
+          "definition": "Voltaire défend l'idée d'une religion naturelle, fondée sur la raison et l'observation de la nature. Il critique les dogmes et les superstitions des religions révélées, et prône une religion déiste qui reconnaît l'existence d'un Dieu créateur, mais sans révélation divine."
+        },
+        "concept_2": {
+          "nom": "Religion et mystère (Kierkegaard)",
+          "definition": "Pour Kierkegaard, la foi religieuse est un saut dans l'inconnu, un acte de confiance dans un mystère qui échappe à la raison. La foi est une relation personnelle avec Dieu, marquée par l'angoisse et le paradoxe, notamment à travers la figure d'Abraham."
+        },
+        "opposition": "Voltaire prône une religion rationnelle et déiste, tandis que Kierkegaard voit la foi comme un acte irrationnel et paradoxal, marqué par le mystère."
+      },
+      {
+        "concept_1": {
+          "nom": "Religion et société (Durkheim)",
+          "definition": "Pour Durkheim, la religion est avant tout un fait social. Elle sert à renforcer la cohésion sociale en créant des croyances et des pratiques communes. La religion est donc un produit de la société, et non une vérité transcendante."
+        },
+        "concept_2": {
+          "nom": "Religion et aliénation (Marx)",
+          "definition": "Marx voit la religion comme une forme d'aliénation. Elle est l'opium du peuple, un moyen pour les classes dominantes de maintenir les opprimés dans un état de soumission en leur promettant une rédemption dans l'au-delà. La religion détourne les masses de la lutte pour la justice sociale."
+        },
+        "opposition": "Durkheim voit la religion comme un facteur de cohésion sociale, tandis que Marx la considère comme un outil d'aliénation et de domination des classes opprimées."
+      },
+      {
+        "concept_1": {
+          "nom": "Religion et nihilisme (Nietzsche)",
+          "definition": "Pour Nietzsche, la religion chrétienne est responsable du nihilisme occidental. En prônant des valeurs de faiblesse et de renoncement, elle a conduit à la dévalorisation de la vie et à la perte de sens. Nietzsche appelle à un dépassement de la religion pour retrouver une affirmation de la vie."
+        },
+        "concept_2": {
+          "nom": "Religion et transcendance (Heidegger)",
+          "definition": "Heidegger critique la conception traditionnelle de la religion comme relation à un Dieu transcendant. Il propose une approche plus phénoménologique de la religion, centrée sur l'expérience du sacré dans le monde, sans référence à une transcendance extérieure."
+        },
+        "opposition": "Nietzsche critique la religion pour son nihilisme et appelle à son dépassement, tandis que Heidegger propose une approche phénoménologique de l'expérience religieuse, sans transcendance."
+      },
+      {
+        "concept_1": {
+          "nom": "Religion et projection humaine (Feuerbach)",
+          "definition": "Pour Feuerbach, la religion est une projection des qualités humaines idéalisées dans un être transcendant. Les hommes projettent leurs désirs et leurs vertus dans l'idée de Dieu, puis vénèrent cette création de leur propre imagination. La religion est ainsi une forme d'aliénation."
+        },
+        "concept_2": {
+          "nom": "Religion et aliénation (Marx)",
+          "definition": "Marx voit la religion comme un outil d'aliénation utilisé par les classes dominantes pour maintenir les opprimés dans un état de soumission. La religion détourne les masses de la lutte pour la justice sociale en leur promettant une rédemption dans l'au-delà."
+        },
+        "opposition": "Feuerbach voit la religion comme une projection des qualités humaines, tandis que Marx la considère comme un instrument d'aliénation sociale et économique."
+      },
+      {
+        "concept_1": {
+          "nom": "Religion et morale (Kant)",
+          "definition": "Pour Kant, la religion doit être fondée sur la morale. Les doctrines religieuses sont des postulats de la raison pratique, comme l'existence de Dieu et l'immortalité de l'âme, qui garantissent la possibilité du plus grand bien (vertu + bonheur)."
+        },
+        "concept_2": {
+          "nom": "Religion et révélation (Descartes)",
+          "definition": "Descartes voit la religion comme soutenue par la raison, notamment à travers la preuve ontologique de l'existence de Dieu. Dieu, en tant qu'être parfait, garantit la véracité des connaissances humaines et l'existence du monde extérieur."
+        },
+        "opposition": "Kant subordonne la religion à la morale rationnelle, tandis que Descartes utilise la raison pour prouver l'existence de Dieu et soutenir la foi religieuse."
+      },
+      {
+        "concept_1": {
+          "nom": "Religion et nihilisme (Nietzsche)",
+          "definition": "Pour Nietzsche, la religion chrétienne est responsable du nihilisme occidental. En prônant des valeurs de faiblesse et de renoncement, elle a conduit à la dévalorisation de la vie et à la perte de sens. Nietzsche appelle à un dépassement de la religion pour retrouver une affirmation de la vie."
+        },
+        "concept_2": {
+          "nom": "Religion et transcendance (Heidegger)",
+          "definition": "Heidegger critique la conception traditionnelle de la religion comme relation à un Dieu transcendant. Il propose une approche phénoménologique de la religion, centrée sur l'expérience du sacré dans le monde, sans référence à une transcendance extérieure."
+        },
+        "opposition": "Nietzsche critique la religion pour son nihilisme et appelle à son dépassement, tandis que Heidegger propose une approche phénoménologique de l'expérience religieuse, sans transcendance."
+      },
+      {
+        "concept_1": {
+          "nom": "Religion et dépendance (Feuerbach)",
+          "definition": "Feuerbach affirme que l'essence de la religion réside dans le sentiment de dépendance des hommes. Ceux-ci projettent leurs plus hautes qualités dans un être transcendant, qu'ils adorent ensuite, bien que ce dont ils dépendent réellement soit la nature."
+        },
+        "concept_2": {
+          "nom": "Religion et libre arbitre (Islam)",
+          "definition": "Dans la théologie islamique, le problème du libre arbitre et de la responsabilité humaine est central. Certains courants, comme les musulmans orthodoxes, soutiennent que Dieu a créé le monde ex nihilo et que la volonté humaine est soumise à la volonté divine."
+        },
+        "opposition": "Feuerbach voit la religion comme une projection de la dépendance humaine à la nature, tandis que dans l'islam orthodoxe, la religion implique une dépendance à la volonté divine, avec des débats sur le libre arbitre."
+      },
+      {
+        "concept_1": {
+          "nom": "Religion et société (Durkheim)",
+          "definition": "Pour Durkheim, la religion est avant tout un fait social. Elle sert à renforcer la cohésion sociale en créant des croyances et des pratiques communes. La religion est donc un produit de la société, et non une vérité transcendante."
+        },
+        "concept_2": {
+          "nom": "Religion et pouvoir (Foucault)",
+          "definition": "Foucault analyse la religion comme une institution de pouvoir qui régule les comportements et les corps. La religion, à travers ses pratiques et ses discours, participe à la construction des normes sociales et à la discipline des individus."
+        },
+        "opposition": "Durkheim voit la religion comme un facteur de cohésion sociale, tandis que Foucault la considère comme un outil de pouvoir et de contrôle des comportements."
+      },
+      {
+        "concept_1": {
+          "nom": "Religion et mystère (Kierkegaard)",
+          "definition": "Pour Kierkegaard, la foi religieuse est un saut dans l'inconnu, un acte de confiance dans un mystère qui échappe à la raison. La foi est une relation personnelle avec Dieu, marquée par l'angoisse et le paradoxe, notamment à travers la figure d'Abraham."
+        },
+        "concept_2": {
+          "nom": "Religion et raison (Hegel)",
+          "definition": "Hegel voit la religion comme une étape dans le développement de l'Esprit absolu. La religion exprime de manière symbolique ce que la philosophie exprime de manière conceptuelle. La raison finit par dépasser la religion en atteignant une compréhension rationnelle de l'Esprit."
+        },
+        "opposition": "Kierkegaard voit la foi comme un acte irrationnel et paradoxal, tandis que Hegel considère la religion comme une étape vers la compréhension rationnelle de l'Esprit."
+      },
+      {
+        "concept_1": {
+          "nom": "Religion et existence (Sartre)",
+          "definition": "Pour Sartre, la religion est une tentative de fuir la liberté radicale de l'homme. En postulant l'existence d'un Dieu qui donne un sens à l'existence, la religion permet aux individus d'échapper à l'angoisse de la liberté et de la responsabilité totale de leurs actes."
+        },
+        "concept_2": {
+          "nom": "Religion et existence (Heidegger)",
+          "definition": "Heidegger ne traite pas directement de la religion, mais il voit l'expérience religieuse comme une possible manière d'être-au-monde. La religion, en tant qu'expérience du sacré, peut révéler la finitude et la temporalité de l'existence humaine."
+        },
+        "opposition": "Sartre critique la religion comme une fuite de la liberté, tandis que Heidegger voit l'expérience religieuse comme une manière de révéler la finitude de l'existence."
+      },
+      {
+        "concept_1": {
+          "nom": "Religion et éthique (Spinoza)",
+          "definition": "Pour Spinoza, la vraie religion est celle qui est en accord avec la raison et qui conduit à la vertu. Dieu est identifié à la nature, et la religion doit être comprise comme un moyen d'atteindre la connaissance rationnelle de Dieu et de vivre en harmonie avec la nature."
+        },
+        "concept_2": {
+          "nom": "Religion et transcendance (Plotin)",
+          "definition": "Plotin voit la religion comme une voie d'ascension vers l'Un, principe transcendant au-delà de l'être. La religion est une expérience mystique qui permet à l'âme de s'unir à l'Un et de dépasser le monde sensible."
+        },
+        "opposition": "Spinoza voit la religion comme un moyen de vivre en accord avec la nature et la raison, tandis que Plotin la considère comme une voie mystique vers une transcendance au-delà du monde."
+      }
+    ]
+  }

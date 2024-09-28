@@ -1,0 +1,136 @@
+{
+    "distinctions": [
+      {
+        "concept_1": {
+          "nom": "Liberté de fait",
+          "definition": "La liberté de fait désigne la capacité réelle d'un individu à agir, en fonction des circonstances concrètes dans lesquelles il se trouve."
+        },
+        "concept_2": {
+          "nom": "Liberté de droit",
+          "definition": "La liberté de droit est la liberté reconnue par les lois et les principes juridiques, indépendamment de la possibilité concrète d'agir."
+        },
+        "opposition": "La liberté de fait concerne la possibilité réelle d'agir dans la pratique, tandis que la liberté de droit se réfère à la reconnaissance légale d'une liberté. Par exemple, on peut avoir la liberté de droit de se déplacer, mais ne pas avoir la liberté de fait si l'on est physiquement empêché."
+      },
+      {
+        "concept_1": {
+          "nom": "Liberté morale",
+          "definition": "La liberté morale est la capacité d'agir en accord avec des principes éthiques, de choisir le bien plutôt que le mal, selon Kant."
+        },
+        "concept_2": {
+          "nom": "Liberté naturelle",
+          "definition": "La liberté naturelle est la liberté instinctive, qui correspond à l'absence de contraintes extérieures, souvent associée à l'état de nature."
+        },
+        "opposition": "La liberté naturelle est une liberté brute, non régulée par des normes sociales ou morales, tandis que la liberté morale est une liberté disciplinée par des principes éthiques. Dans la pensée kantienne, la liberté morale transcende la liberté naturelle, car elle repose sur la rationalité et la moralité."
+      },
+      {
+        "concept_1": {
+          "nom": "Liberté formelle",
+          "definition": "La liberté formelle est la liberté inscrite dans les lois et les institutions, garantissant un cadre légal d'action."
+        },
+        "concept_2": {
+          "nom": "Liberté réelle",
+          "definition": "La liberté réelle est la capacité effective d'une personne à agir en fonction de ses possibilités et des ressources dont elle dispose."
+        },
+        "opposition": "La liberté formelle est une liberté garantie par les institutions, mais elle peut être vide de sens si les individus ne disposent pas des moyens matériels pour en jouir. La liberté réelle met donc l'accent sur les conditions concrètes qui permettent ou empêchent l'exercice de la liberté."
+      },
+      {
+        "concept_1": {
+          "nom": "Liberté intérieure",
+          "definition": "La liberté intérieure est la capacité de maîtriser ses passions, ses désirs et ses impulsions, et d'agir en fonction de sa volonté réfléchie."
+        },
+        "concept_2": {
+          "nom": "Liberté extérieure",
+          "definition": "La liberté extérieure est l'absence de contraintes physiques ou sociales qui limitent la capacité d'une personne à agir dans le monde."
+        },
+        "opposition": "La liberté intérieure se rapporte au contrôle que l'individu exerce sur lui-même et ses désirs, tandis que la liberté extérieure se réfère à l'absence d'obstacles extérieurs. Un individu peut être intérieurement libre mais extérieurement contraint, ou vice versa."
+      },
+      {
+        "concept_1": {
+          "nom": "Liberté d'indifférence",
+          "definition": "La liberté d'indifférence est la capacité de choisir entre plusieurs options sans être déterminé par des inclinations ou des motifs rationnels."
+        },
+        "concept_2": {
+          "nom": "Liberté éclairée",
+          "definition": "La liberté éclairée est la capacité de faire des choix en étant guidé par la raison et la connaissance, en visant le bien ou le juste."
+        },
+        "opposition": "La liberté d'indifférence, souvent associée à Descartes, est une liberté brute et indéterminée, où le choix est libre parce qu'il n'est pas encore orienté par la raison. La liberté éclairée, quant à elle, est une liberté raisonnée, où le choix est orienté par la volonté du bien. L'une valorise l'absence de détermination, l'autre l'utilisation de la raison pour guider les actions."
+      },
+      {
+        "concept_1": {
+          "nom": "Liberté de conscience",
+          "definition": "La liberté de conscience est le droit pour un individu de penser librement, d'avoir ses propres croyances et opinions, sans coercition extérieure."
+        },
+        "concept_2": {
+          "nom": "Liberté d'expression",
+          "definition": "La liberté d'expression est le droit de communiquer ses idées, opinions et croyances publiquement, sans censure ni répression."
+        },
+        "opposition": "La liberté de conscience relève de la dimension intérieure de l'individu (ses pensées et croyances), tandis que la liberté d'expression concerne la dimension publique et communicative de ces pensées. Elles sont complémentaires mais peuvent être en tension lorsque l'expression publique de certaines croyances est perçue comme nuisible à l'ordre social."
+      },
+      {
+        "concept_1": {
+          "nom": "Liberté civile",
+          "definition": "La liberté civile désigne les droits et libertés garantis par l'État aux citoyens, comme la liberté de se déplacer, de s'associer, ou de posséder des biens."
+        },
+        "concept_2": {
+          "nom": "Liberté politique",
+          "definition": "La liberté politique est la capacité des citoyens à participer activement aux affaires publiques, notamment par le vote, la participation à des débats politiques, ou l'adhésion à des partis."
+        },
+        "opposition": "La liberté civile concerne les droits individuels dans la vie privée et sociale, tandis que la liberté politique se concentre sur la participation à la vie publique. Elles peuvent entrer en tension lorsque les libertés civiles sont restreintes au nom de la stabilité politique, ou lorsque la liberté politique est entravée par des limitations des droits civils."
+      },
+      {
+        "concept_1": {
+          "nom": "Liberté instrumentale",
+          "definition": "La liberté instrumentale est la liberté considérée comme un moyen d'atteindre d'autres fins, telles que le bonheur ou l'épanouissement personnel."
+        },
+        "concept_2": {
+          "nom": "Liberté intrinsèque",
+          "definition": "La liberté intrinsèque est la liberté considérée comme une valeur en soi, indépendante de ses résultats ou de ses conséquences."
+        },
+        "opposition": "La liberté instrumentale est valorisée en fonction des résultats qu'elle permet d'atteindre, alors que la liberté intrinsèque est perçue comme un bien en soi, indépendamment de son utilité."
+      },
+      {
+        "concept_1": {
+          "nom": "Liberté subjective",
+          "definition": "La liberté subjective est la perception qu'un individu a de sa propre liberté, selon ses propres croyances, sentiments et expériences."
+        },
+        "concept_2": {
+          "nom": "Liberté objective",
+          "definition": "La liberté objective est une liberté définie par des critères extérieurs, comme des lois ou des normes sociales, indépendamment de la perception personnelle."
+        },
+        "opposition": "La liberté subjective est fondée sur la manière dont une personne ressent et comprend sa propre liberté, tandis que la liberté objective est définie par des critères extérieurs, souvent indépendants des sentiments individuels."
+      },
+      {
+        "concept_1": {
+          "nom": "Liberté déterminée",
+          "definition": "La liberté déterminée est la capacité de faire des choix en fonction de motifs rationnels, des désirs ou des inclinations, mais sous l'influence de certaines causes."
+        },
+        "concept_2": {
+          "nom": "Liberté indéterminée",
+          "definition": "La liberté indéterminée est la capacité de faire des choix sans être déterminé par des causes antérieures, comme l'affirme la notion de libre arbitre absolu."
+        },
+        "opposition": "La liberté déterminée est influencée par des causes extérieures ou intérieures, tandis que la liberté indéterminée suppose une totale autonomie, où aucun facteur externe ou interne ne détermine les choix."
+      },
+      {
+        "concept_1": {
+          "nom": "Liberté juridique",
+          "definition": "La liberté juridique est celle qui est garantie par les lois d'un État, et qui protège les droits de l'individu dans un cadre légal."
+        },
+        "concept_2": {
+          "nom": "Liberté morale",
+          "definition": "La liberté morale est la capacité de choisir et d'agir selon des principes éthiques et des valeurs morales, indépendamment des lois."
+        },
+        "opposition": "La liberté juridique est définie et encadrée par les lois d'un État, tandis que la liberté morale est guidée par des principes éthiques personnels ou universels. Un individu peut être légalement libre mais moralement contraint, ou inversement."
+      },
+      {
+        "concept_1": {
+          "nom": "Liberté existentielle",
+          "definition": "La liberté existentielle, telle que décrite par Sartre, est la prise de conscience que l'individu est radicalement libre de ses choix, mais aussi responsable de ceux-ci."
+        },
+        "concept_2": {
+          "nom": "Liberté sociale",
+          "definition": "La liberté sociale est la capacité d'un individu à agir et à s'exprimer librement dans un cadre social, en tenant compte des normes et des attentes de la société."
+        },
+        "opposition": "La liberté existentielle met l'accent sur l'autonomie absolue de l'individu face à son existence, tandis que la liberté sociale est plus limitée, car elle doit prendre en compte les interactions avec les autres et les normes sociales."
+      }
+    ]
+  }

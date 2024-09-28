@@ -1,0 +1,202 @@
+{
+    "distinctions": [
+      {
+        "concept_1": {
+          "nom": "Bonheur subjectif",
+          "definition": "Le bonheur subjectif correspond au sentiment personnel de bien-être d'un individu, à sa satisfaction vis-à-vis de sa propre vie, indépendamment des critères extérieurs."
+        },
+        "concept_2": {
+          "nom": "Bonheur objectif",
+          "definition": "Le bonheur objectif se mesure à travers des critères extérieurs et universels, comme la réalisation de certains biens ou idéaux jugés nécessaires à l'épanouissement humain."
+        },
+        "opposition": "Le bonheur subjectif dépend du ressenti personnel de l'individu, alors que le bonheur objectif nécessite la réalisation de conditions extérieures, telles que la santé, la sécurité ou l'accès aux ressources nécessaires à l'épanouissement."
+      },
+      {
+        "concept_1": {
+          "nom": "Bonheur eudémoniste",
+          "definition": "Le bonheur eudémoniste, selon Aristote, est l'accomplissement de ses potentialités et la réalisation de la vertu. Il s'agit d'un bonheur lié à la pleine réalisation de soi en tant qu'être rationnel."
+        },
+        "concept_2": {
+          "nom": "Bonheur hédoniste",
+          "definition": "Le bonheur hédoniste est la recherche du plaisir et l'évitement de la douleur. Il est souvent associé à Épicure, pour qui le bonheur consiste dans une vie basée sur le plaisir modéré."
+        },
+        "opposition": "Le bonheur eudémoniste met l'accent sur la vertu et la réalisation de soi en tant qu'être moral, tandis que le bonheur hédoniste valorise principalement les plaisirs physiques et sensoriels comme source de bien-être."
+      },
+      {
+        "concept_1": {
+          "nom": "Bonheur individuel",
+          "definition": "Le bonheur individuel est le bien-être ressenti par un individu spécifique, souvent en fonction de ses propres désirs, aspirations et réussites personnelles."
+        },
+        "concept_2": {
+          "nom": "Bonheur collectif",
+          "definition": "Le bonheur collectif désigne le bien-être partagé au sein d'une société ou d'une communauté, souvent lié à la justice sociale, à l'égalité et à l'harmonie entre les individus."
+        },
+        "opposition": "Le bonheur individuel se concentre sur l'épanouissement personnel, tandis que le bonheur collectif met l'accent sur le bien-être de la société dans son ensemble. Ces deux formes de bonheur peuvent parfois entrer en conflit lorsque le bien-être individuel est perçu comme incompatible avec l'intérêt général."
+      },
+      {
+        "concept_1": {
+          "nom": "Bonheur immédiat",
+          "definition": "Le bonheur immédiat est celui qui se manifeste dans l'instant présent, souvent par la satisfaction de désirs ou par des plaisirs immédiats."
+        },
+        "concept_2": {
+          "nom": "Bonheur différé",
+          "definition": "Le bonheur différé consiste à sacrifier les plaisirs présents pour obtenir un bonheur à long terme, plus durable ou plus profond."
+        },
+        "opposition": "Le bonheur immédiat se base sur la satisfaction instantanée de désirs ou besoins, tandis que le bonheur différé implique une patience et un effort pour atteindre un bonheur plus durable dans le futur."
+      },
+      {
+        "concept_1": {
+          "nom": "Bonheur matériel",
+          "definition": "Le bonheur matériel repose sur la possession de biens matériels et la satisfaction des besoins physiques tels que la santé, la sécurité et le confort."
+        },
+        "concept_2": {
+          "nom": "Bonheur spirituel",
+          "definition": "Le bonheur spirituel est issu de la paix intérieure, de la méditation, des croyances religieuses ou philosophiques, et est souvent déconnecté des biens matériels."
+        },
+        "opposition": "Le bonheur matériel est basé sur la satisfaction des besoins physiques et la possession de biens matériels, tandis que le bonheur spirituel se fonde sur des valeurs intérieures et immatérielles, comme la sagesse, la paix ou la connexion avec le divin."
+      },
+      {
+        "concept_1": {
+          "nom": "Bonheur stable",
+          "definition": "Le bonheur stable est un état de bien-être durable, fondé sur des conditions de vie stables et la satisfaction continue des besoins fondamentaux."
+        },
+        "concept_2": {
+          "nom": "Bonheur éphémère",
+          "definition": "Le bonheur éphémère est un état de bien-être temporaire, souvent lié à des événements ponctuels ou des plaisirs instantanés."
+        },
+        "opposition": "Le bonheur stable est durable et se maintient dans le temps, tandis que le bonheur éphémère est de courte durée et est souvent lié à des plaisirs passagers ou des sensations immédiates."
+      },
+      {
+        "concept_1": {
+          "nom": "Bonheur rationnel",
+          "definition": "Le bonheur rationnel est fondé sur l'usage de la raison et la poursuite d'objectifs éclairés et réfléchis. Il est souvent associé à la maîtrise de soi et à la prise de décisions réfléchies."
+        },
+        "concept_2": {
+          "nom": "Bonheur émotionnel",
+          "definition": "Le bonheur émotionnel est un sentiment spontané de bien-être, basé sur les émotions positives et les plaisirs sensoriels ou affectifs."
+        },
+        "opposition": "Le bonheur rationnel découle d'une réflexion et d'une maîtrise des désirs, tandis que le bonheur émotionnel est plus spontané et lié aux émotions positives et aux plaisirs immédiats."
+      },
+      {
+        "concept_1": {
+          "nom": "Bonheur universel",
+          "definition": "Le bonheur universel est un concept de bonheur applicable à tous les êtres humains, basé sur des principes ou des conditions de vie universelles, telles que la paix, la justice et la sécurité."
+        },
+        "concept_2": {
+          "nom": "Bonheur particulier",
+          "definition": "Le bonheur particulier est spécifique à chaque individu, en fonction de ses désirs, de ses croyances ou de ses besoins personnels."
+        },
+        "opposition": "Le bonheur universel cherche à définir des conditions de bonheur qui s'appliquent à tous les êtres humains, tandis que le bonheur particulier valorise la subjectivité et les différences individuelles dans la définition du bonheur."
+      },
+      {
+        "concept_1": {
+          "nom": "Bonheur universel",
+          "definition": "Le bonheur universel est un concept de bonheur applicable à tous les êtres humains, basé sur des principes ou des conditions de vie universelles, telles que la paix, la justice et la sécurité."
+        },
+        "concept_2": {
+          "nom": "Bonheur particulier",
+          "definition": "Le bonheur particulier est spécifique à chaque individu, en fonction de ses désirs, de ses croyances ou de ses besoins personnels."
+        },
+        "opposition": "Le bonheur universel cherche à définir des conditions de bonheur qui s'appliquent à tous les êtres humains, tandis que le bonheur particulier valorise la subjectivité et les différences individuelles dans la définition du bonheur."
+      },
+      {
+        "concept_1": {
+          "nom": "Bonheur stable",
+          "definition": "Le bonheur stable est un état de bien-être durable, fondé sur des conditions de vie stables et la satisfaction continue des besoins fondamentaux."
+        },
+        "concept_2": {
+          "nom": "Bonheur éphémère",
+          "definition": "Le bonheur éphémère est un état de bien-être temporaire, souvent lié à des événements ponctuels ou des plaisirs instantanés."
+        },
+        "opposition": "Le bonheur stable est durable et se maintient dans le temps, tandis que le bonheur éphémère est de courte durée et est souvent lié à des plaisirs passagers ou des sensations immédiates."
+      },
+      {
+        "concept_1": {
+          "nom": "Bonheur rationnel",
+          "definition": "Le bonheur rationnel est fondé sur l'usage de la raison et la poursuite d'objectifs éclairés et réfléchis. Il est souvent associé à la maîtrise de soi et à la prise de décisions réfléchies."
+        },
+        "concept_2": {
+          "nom": "Bonheur émotionnel",
+          "definition": "Le bonheur émotionnel est un sentiment spontané de bien-être, basé sur les émotions positives et les plaisirs sensoriels ou affectifs."
+        },
+        "opposition": "Le bonheur rationnel découle d'une réflexion et d'une maîtrise des désirs, tandis que le bonheur émotionnel est plus spontané et lié aux émotions positives et aux plaisirs immédiats."
+      },
+      {
+        "concept_1": {
+          "nom": "Ataraxie",
+          "definition": "L'ataraxie est un état de tranquillité de l'âme, caractérisé par l'absence de perturbation mentale. Ce concept est central dans la philosophie épicurienne et stoïcienne."
+        },
+        "concept_2": {
+          "nom": "Aponie",
+          "definition": "L'aponie est l'absence de douleur physique, un état de bien-être corporel. Pour Épicure, le bonheur consiste dans la combinaison de l'ataraxie et de l'aponie."
+        },
+        "opposition": "L'ataraxie concerne la paix de l'esprit, tandis que l'aponie concerne l'absence de douleur physique. Ensemble, ces deux états forment la base du bonheur selon Épicure."
+      },
+      {
+        "concept_1": {
+          "nom": "Plaisirs catastrophématiques",
+          "definition": "Les plaisirs catastrophématiques sont des plaisirs stables et durables, qui ne sont pas accompagnés de souffrance. Ils sont souvent liés à des relations profondes, comme l'amitié."
+        },
+        "concept_2": {
+          "nom": "Plaisirs dynamiques",
+          "definition": "Les plaisirs dynamiques sont des plaisirs instables et souvent accompagnés de souffrance ou de perturbation. Ils sont généralement liés à des désirs immédiats, comme les plaisirs sexuels."
+        },
+        "opposition": "Les plaisirs catastrophématiques sont stables et durables, tandis que les plaisirs dynamiques sont instables et souvent accompagnés de souffrance."
+      },
+      {
+        "concept_1": {
+          "nom": "Bonheur stoïcien",
+          "definition": "Le bonheur stoïcien est l'atteinte de la vertu et de la sagesse, en accord avec la nature et la raison. Il repose sur la maîtrise des passions et l'acceptation des événements extérieurs."
+        },
+        "concept_2": {
+          "nom": "Bonheur épicurien",
+          "definition": "Le bonheur épicurien est la recherche du plaisir modéré et l'évitement de la douleur, en atteignant l'ataraxie (paix de l'âme) et l'aponie (absence de douleur physique)."
+        },
+        "opposition": "Le bonheur stoïcien met l'accent sur la maîtrise des passions et la vertu, tandis que le bonheur épicurien valorise le plaisir modéré et l'absence de douleur."
+      },
+      {
+        "concept_1": {
+          "nom": "Bonheur kantien",
+          "definition": "Pour Kant, le bonheur est un idéal de l'imagination, lié à la satisfaction des inclinations sensibles. Cependant, il ne peut être un critère moral, car la moralité repose sur le devoir et non sur la recherche du bonheur."
+        },
+        "concept_2": {
+          "nom": "Bonheur utilitariste",
+          "definition": "Dans l'utilitarisme, le bonheur est défini comme la maximisation du plaisir et la minimisation de la souffrance pour le plus grand nombre. Il s'agit d'une approche conséquentialiste du bonheur."
+        },
+        "opposition": "Le bonheur kantien est subordonné à la moralité et n'est pas un critère moral en soi, tandis que le bonheur utilitariste est un critère moral central, visant à maximiser le bien-être collectif."
+      },
+      {
+        "concept_1": {
+          "nom": "Bonheur ascétique",
+          "definition": "Le bonheur ascétique repose sur la renonciation aux plaisirs matériels et corporels, afin d'atteindre un état de paix intérieure ou de communion spirituelle."
+        },
+        "concept_2": {
+          "nom": "Bonheur hédoniste",
+          "definition": "Le bonheur hédoniste est la recherche des plaisirs matériels et corporels, considérés comme la source principale de bien-être."
+        },
+        "opposition": "Le bonheur ascétique valorise la renonciation aux plaisirs matériels pour atteindre une paix intérieure, tandis que le bonheur hédoniste valorise la recherche des plaisirs corporels et matériels."
+      },
+      {
+        "concept_1": {
+          "nom": "Bonheur contemplatif",
+          "definition": "Le bonheur contemplatif est lié à la contemplation intellectuelle ou spirituelle, souvent associé à la recherche de la vérité ou à l'union avec le divin."
+        },
+        "concept_2": {
+          "nom": "Bonheur actif",
+          "definition": "Le bonheur actif est lié à l'action et à la réalisation de projets dans le monde, souvent en lien avec l'accomplissement de tâches ou d'œuvres concrètes."
+        },
+        "opposition": "Le bonheur contemplatif est centré sur la réflexion et la méditation, tandis que le bonheur actif est lié à l'action et à la réalisation dans le monde extérieur."
+      },
+      {
+        "concept_1": {
+          "nom": "Bonheur selon le désir naturel",
+          "definition": "Le bonheur selon le désir naturel consiste à satisfaire des besoins fondamentaux et naturels, tels que la nourriture, le sommeil, et les relations sociales."
+        },
+        "concept_2": {
+          "nom": "Bonheur selon le désir artificiel",
+          "definition": "Le bonheur selon le désir artificiel résulte de la satisfaction de désirs créés par la société ou la culture, comme la recherche de richesse ou de prestige."
+        },
+        "opposition": "Le bonheur selon le désir naturel repose sur la satisfaction des besoins fondamentaux, tandis que le bonheur selon le désir artificiel repose sur des désirs créés par la culture ou la société."
+      }
+    ]
+  }

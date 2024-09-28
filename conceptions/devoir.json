@@ -1,0 +1,92 @@
+{
+    "distinctions": [
+      {
+        "concept_1": {
+          "nom": "Devoir moral kantien",
+          "definition": "Le devoir moral, selon Kant, est une obligation inconditionnelle qui découle de la loi morale universelle. Il est fondé sur l'impératif catégorique, qui exige d'agir uniquement selon des maximes que l'on pourrait vouloir voir devenir des lois universelles."
+        },
+        "concept_2": {
+          "nom": "Devoir utilitariste",
+          "definition": "Le devoir utilitariste est défini par la maximisation du bonheur pour le plus grand nombre. Il s'agit d'une approche conséquentialiste, où le devoir est lié aux conséquences des actions plutôt qu'à des principes absolus."
+        },
+        "opposition": "Le devoir kantien repose sur des principes universels indépendants des conséquences, tandis que le devoir utilitariste se base sur les résultats des actions pour déterminer ce qui est moralement correct."
+      },
+      {
+        "concept_1": {
+          "nom": "Devoir et contrainte",
+          "definition": "Le devoir est souvent perçu comme une contrainte extérieure, une obligation qui limite la liberté de l'individu. Il impose des actions que l'on doit accomplir, qu'on le veuille ou non."
+        },
+        "concept_2": {
+          "nom": "Devoir et autonomie",
+          "definition": "Chez Kant, le devoir est une expression de la liberté rationnelle. L'individu est véritablement libre lorsqu'il agit par devoir, c'est-à-dire en suivant la loi morale qu'il se donne à lui-même."
+        },
+        "opposition": "Le devoir peut être vu comme une contrainte extérieure (hétéronomie) ou comme une expression de la liberté rationnelle (autonomie)."
+      },
+      {
+        "concept_1": {
+          "nom": "Devoir et bonheur chez Kant",
+          "definition": "Pour Kant, le devoir moral est indépendant de la recherche du bonheur. Il ne faut pas agir par devoir pour être heureux, mais parce que c'est moralement juste."
+        },
+        "concept_2": {
+          "nom": "Devoir et bonheur dans l'utilitarisme",
+          "definition": "Dans l'utilitarisme, le devoir moral est directement lié à la maximisation du bonheur. Le devoir consiste à agir de manière à produire le plus grand bonheur pour le plus grand nombre."
+        },
+        "opposition": "Chez Kant, le devoir est indépendant du bonheur, tandis que dans l'utilitarisme, le devoir est défini par la maximisation du bonheur."
+      },
+      {
+        "concept_1": {
+          "nom": "Devoir déontologique",
+          "definition": "Le devoir déontologique, tel que défini par Kant, repose sur des principes universels et absolus. Il s'agit d'agir conformément à la loi morale, indépendamment des conséquences."
+        },
+        "concept_2": {
+          "nom": "Devoir et vertu chez Aristote",
+          "definition": "Pour Aristote, le devoir moral est lié à la vertu. Agir moralement, c'est agir conformément à la vertu, en cultivant des dispositions morales telles que le courage ou la justice."
+        },
+        "opposition": "Le devoir déontologique est fondé sur des principes universels et abstraits, tandis que le devoir aristotélicien est lié à la pratique des vertus."
+      },
+      {
+        "concept_1": {
+          "nom": "Devoir moral",
+          "definition": "Le devoir moral est une obligation éthique qui transcende les lois juridiques. Il repose sur des principes éthiques universels et peut parfois entrer en conflit avec les lois établies."
+        },
+        "concept_2": {
+          "nom": "Devoir juridique",
+          "definition": "Le devoir juridique est une obligation imposée par la loi. Il est lié à l'obéissance aux règles et aux normes établies par l'État ou la société."
+        },
+        "opposition": "Le devoir moral repose sur des principes éthiques universels, tandis que le devoir juridique est imposé par la loi et peut être sanctionné."
+      },
+      {
+        "concept_1": {
+          "nom": "Devoir et inclination chez Kant",
+          "definition": "Pour Kant, le devoir moral doit être accompli indépendamment des inclinations personnelles. Il ne s'agit pas d'agir par plaisir ou par intérêt, mais uniquement par respect pour la loi morale."
+        },
+        "concept_2": {
+          "nom": "Devoir et inclination chez les moralistes",
+          "definition": "Certains philosophes moralistes, comme Hume, estiment que les inclinations naturelles, comme la sympathie ou la bienveillance, peuvent être à l'origine de nos devoirs moraux."
+        },
+        "opposition": "Chez Kant, le devoir est indépendant des inclinations, tandis que chez certains moralistes, le devoir peut découler des inclinations naturelles."
+      },
+      {
+        "concept_1": {
+          "nom": "Devoir téléologique",
+          "definition": "Le devoir téléologique est orienté vers une finalité, un but à atteindre. Il s'agit d'agir en fonction des conséquences et des objectifs visés, comme dans l'utilitarisme."
+        },
+        "concept_2": {
+          "nom": "Devoir déontologique",
+          "definition": "Le devoir déontologique est une obligation en soi, indépendamment des conséquences. Il s'agit d'agir conformément à des principes moraux universels."
+        },
+        "opposition": "Le devoir téléologique est orienté vers une finalité ou un objectif, tandis que le devoir déontologique est une obligation en soi, indépendamment des conséquences."
+      },
+      {
+        "concept_1": {
+          "nom": "Devoir social",
+          "definition": "Le devoir social est une obligation envers la société ou la communauté. Il s'agit de respecter les normes sociales, les lois et les attentes collectives."
+        },
+        "concept_2": {
+          "nom": "Devoir individuel",
+          "definition": "Le devoir individuel est une obligation que l'on se doit à soi-même, comme le respect de sa propre dignité ou l'accomplissement de ses talents."
+        },
+        "opposition": "Le devoir social concerne les obligations envers la société, tandis que le devoir individuel concerne les obligations envers soi-même."
+      }
+    ]
+  }

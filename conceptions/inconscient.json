@@ -1,0 +1,70 @@
+{
+    "distinctions": [
+      {
+        "concept_1": {
+          "nom": "Inconscient freudien",
+          "definition": "Pour Freud, l'inconscient est une partie de la psyché qui contient des désirs, des pulsions et des souvenirs refoulés, jugés inacceptables par la conscience. Il est structuré en trois instances : le Ça (pulsions), le Moi (médiateur) et le Surmoi (instance morale)."
+        },
+        "concept_2": {
+          "nom": "Inconscient collectif selon Jung",
+          "definition": "Pour Jung, l'inconscient collectif est une dimension partagée par toute l'humanité, composée d'archétypes, c'est-à-dire des images et des symboles universels hérités de l'histoire humaine. Il dépasse l'inconscient individuel."
+        },
+        "opposition": "L'inconscient freudien est principalement individuel et lié aux expériences personnelles refoulées, tandis que l'inconscient jungien inclut une dimension collective, partagée par toute l'humanité."
+      },
+      {
+        "concept_1": {
+          "nom": "Inconscient dynamique (Freud)",
+          "definition": "L'inconscient dynamique chez Freud est en perpétuelle activité. Il influence la conscience à travers des mécanismes comme le refoulement, les lapsus, les rêves ou les actes manqués, qui révèlent des conflits intérieurs non résolus."
+        },
+        "concept_2": {
+          "nom": "Inconscient cognitif",
+          "definition": "L'inconscient cognitif, étudié par les sciences cognitives, désigne les processus mentaux automatiques qui échappent à la conscience, comme la perception, la mémoire implicite ou les habitudes. Il n'est pas lié à des conflits psychiques mais à des fonctions automatiques du cerveau."
+        },
+        "opposition": "L'inconscient dynamique de Freud est lié à des conflits psychiques et des désirs refoulés, tandis que l'inconscient cognitif concerne des processus automatiques et non conflictuels de la pensée."
+      },
+      {
+        "concept_1": {
+          "nom": "Inconscient et refoulement (Freud)",
+          "definition": "Chez Freud, l'inconscient est principalement constitué de contenus refoulés, c'est-à-dire des désirs et des souvenirs que le Moi juge inacceptables et qu'il maintient hors de la conscience pour éviter l'angoisse."
+        },
+        "concept_2": {
+          "nom": "Inconscient et archétypes (Jung)",
+          "definition": "Chez Jung, l'inconscient collectif est structuré par des archétypes, des formes symboliques universelles qui influencent la manière dont les individus perçoivent le monde et se comportent, sans être le résultat d'un refoulement individuel."
+        },
+        "opposition": "Chez Freud, l'inconscient est principalement constitué de contenus refoulés, tandis que chez Jung, il est structuré par des archétypes universels qui ne sont pas le résultat d'un refoulement."
+      },
+      {
+        "concept_1": {
+          "nom": "Inconscient et rêve (Freud)",
+          "definition": "Pour Freud, le rêve est la voie royale vers l'inconscient. Il permet d'exprimer, sous une forme déguisée, des désirs refoulés. Le contenu latent du rêve (désirs inconscients) est transformé en contenu manifeste (scène du rêve) par le travail onirique."
+        },
+        "concept_2": {
+          "nom": "Inconscient et réalisation de soi (Jung)",
+          "definition": "Pour Jung, l'inconscient, à travers les rêves, ne se contente pas de révéler des désirs refoulés, mais joue un rôle dans le processus d'individuation, c'est-à-dire la réalisation de soi. Les rêves aident à intégrer les différentes parties de la personnalité."
+        },
+        "opposition": "Chez Freud, le rêve révèle des désirs refoulés, tandis que chez Jung, il participe au processus de réalisation de soi et d'intégration des différentes facettes de la personnalité."
+      },
+      {
+        "concept_1": {
+          "nom": "Inconscient et névrose (Freud)",
+          "definition": "Pour Freud, les névroses sont le résultat de conflits entre les désirs inconscients et les exigences du Surmoi. Ces conflits non résolus sont refoulés dans l'inconscient, mais réapparaissent sous forme de symptômes névrotiques."
+        },
+        "concept_2": {
+          "nom": "Inconscient et adaptation (Jung)",
+          "definition": "Pour Jung, les troubles psychiques, y compris les névroses, peuvent résulter d'une incapacité à intégrer les éléments de l'inconscient collectif. La thérapie vise à favoriser l'adaptation en intégrant ces éléments pour atteindre la réalisation de soi."
+        },
+        "opposition": "Chez Freud, la névrose est liée à des conflits internes refoulés, tandis que chez Jung, elle peut résulter d'une difficulté à intégrer les éléments de l'inconscient collectif pour s'adapter au monde."
+      },
+      {
+        "concept_1": {
+          "nom": "Inconscient et lapsus (Freud)",
+          "definition": "Pour Freud, les lapsus sont des manifestations de l'inconscient. Ils révèlent des désirs ou des pensées refoulées qui s'expriment de manière involontaire, perturbant l'intention consciente."
+        },
+        "concept_2": {
+          "nom": "Inconscient et automatisme (Cognitivisme)",
+          "definition": "Dans les sciences cognitives, les erreurs comme les lapsus peuvent être expliquées par des processus automatiques du cerveau, sans nécessairement impliquer des désirs refoulés. Ce sont des erreurs de traitement de l'information."
+        },
+        "opposition": "Pour Freud, les lapsus révèlent des désirs inconscients refoulés, tandis que pour les sciences cognitives, ils peuvent être le résultat de processus automatiques sans lien avec des conflits psychiques."
+      }
+    ]
+  }

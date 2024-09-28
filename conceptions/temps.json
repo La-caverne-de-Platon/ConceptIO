@@ -1,0 +1,191 @@
+{
+    "distinctions": [
+      {
+        "concept_1": {
+          "nom": "Temps et éternité (Platon)",
+          "definition": "Pour Platon, le temps est une image mobile de l'éternité. Le monde sensible est soumis au temps, tandis que le monde des Idées, qui est parfait et immuable, est hors du temps et appartient à l'éternité."
+        },
+        "concept_2": {
+          "nom": "Temps et devenir (Héraclite)",
+          "definition": "Héraclite, en revanche, voit le temps comme un flux perpétuel. Le devenir est l'essence même du réel, et tout est en changement constant. 'On ne se baigne jamais deux fois dans le même fleuve'."
+        },
+        "opposition": "Platon oppose le temps, qui appartient au monde sensible et imparfait, à l'éternité des Idées, tandis qu'Héraclite voit le temps comme un flux continu et ininterrompu de devenir."
+      },
+      {
+        "concept_1": {
+          "nom": "Temps et subjectivité (Saint Augustin)",
+          "definition": "Saint Augustin affirme que le temps est une réalité subjective. Le passé n'existe plus, le futur n'existe pas encore, et seul le présent existe, mais il est insaisissable. Le temps est donc une expérience intérieure, liée à la conscience humaine."
+        },
+        "concept_2": {
+          "nom": "Temps et mesure objective (Aristote)",
+          "definition": "Pour Aristote, le temps est la mesure du mouvement selon un avant et un après. Il est donc une réalité objective, liée au changement dans le monde physique, et peut être mesuré de manière précise."
+        },
+        "opposition": "Saint Augustin voit le temps comme une expérience subjective liée à la conscience, tandis qu'Aristote le considère comme une mesure objective du mouvement dans le monde physique."
+      },
+      {
+        "concept_1": {
+          "nom": "Temps cyclique (Stoïciens)",
+          "definition": "Les Stoïciens conçoivent le temps comme cyclique. L'univers passe par des cycles éternels de création et de destruction, et chaque événement se répète éternellement selon le principe de l'éternel retour."
+        },
+        "concept_2": {
+          "nom": "Temps linéaire (Christianisme)",
+          "definition": "Dans la tradition chrétienne, le temps est linéaire et orienté vers une fin ultime : le Jugement dernier. L'histoire a un début (la Création) et une fin (le Salut), et elle progresse vers un accomplissement divin."
+        },
+        "opposition": "Les Stoïciens conçoivent le temps comme cyclique, avec des répétitions éternelles, tandis que le Christianisme voit le temps comme linéaire, orienté vers un but ultime."
+      },
+      {
+        "concept_1": {
+          "nom": "Temps et durée (Bergson)",
+          "definition": "Henri Bergson distingue le temps mesuré par les horloges, qu'il appelle 'temps spatialisé', de la 'durée', qui est la véritable expérience du temps vécue par la conscience. La durée est continue et qualitative, tandis que le temps mesuré est discontinu et quantitatif."
+        },
+        "concept_2": {
+          "nom": "Temps et espace (Newton)",
+          "definition": "Pour Isaac Newton, le temps est absolu et indépendant de l'espace. Il s'écoule de manière uniforme, qu'il y ait des événements ou non. Le temps est une toile de fond sur laquelle se déroulent les phénomènes physiques."
+        },
+        "opposition": "Bergson oppose la durée, qui est qualitative et vécue, au temps mesuré, tandis que Newton conçoit le temps comme absolu et indépendant, s'écoulant uniformément."
+      },
+      {
+        "concept_1": {
+          "nom": "Temps et relativité (Einstein)",
+          "definition": "Avec la théorie de la relativité, Albert Einstein montre que le temps n'est pas absolu, mais relatif à l'observateur. Le temps peut se dilater ou se contracter en fonction de la vitesse à laquelle un objet se déplace ou de la gravité à laquelle il est soumis."
+        },
+        "concept_2": {
+          "nom": "Temps absolu (Newton)",
+          "definition": "Newton, en revanche, soutient que le temps est absolu et universel. Il s'écoule de manière uniforme, indépendamment des objets et des événements qui se déroulent dans l'univers."
+        },
+        "opposition": "Einstein montre que le temps est relatif et dépend de la vitesse et de la gravité, tandis que Newton voit le temps comme absolu et indépendant des phénomènes physiques."
+      },
+      {
+        "concept_1": {
+          "nom": "Temps et conscience (Husserl)",
+          "definition": "Edmund Husserl, dans sa phénoménologie, analyse le temps comme une structure de la conscience. Le temps est constitué par la rétention (le passé immédiat), la protention (l'anticipation du futur) et le présent vivant, qui forment ensemble la trame de notre expérience temporelle."
+        },
+        "concept_2": {
+          "nom": "Temps et existence (Heidegger)",
+          "definition": "Heidegger, dans *Être et Temps*, voit le temps comme constitutif de l'existence humaine. Le Dasein (l'être-là) est un être-pour-la-mort, et l'existence authentique consiste à prendre conscience de sa temporalité et de sa finitude."
+        },
+        "opposition": "Husserl voit le temps comme une structure de la conscience, tandis que Heidegger le considère comme constitutif de l'existence humaine, liée à la finitude et à la mort."
+      },
+      {
+        "concept_1": {
+          "nom": "Temps et instant (Kierkegaard)",
+          "definition": "Pour Kierkegaard, l'instant est un moment décisif dans l'existence humaine. C'est l'instant où l'individu fait un choix existentiel, qui engage toute sa vie. Le temps est donc marqué par des moments de décision qui donnent sens à l'existence."
+        },
+        "concept_2": {
+          "nom": "Temps et éternité (Spinoza)",
+          "definition": "Spinoza, en revanche, conçoit l'éternité comme une réalité intemporelle. L'éternité n'est pas une durée infinie, mais une manière de concevoir l'existence sous l'aspect de l'éternité (sub specie aeternitatis), en dehors du temps."
+        },
+        "opposition": "Kierkegaard voit l'instant comme un moment décisif dans l'existence humaine, tandis que Spinoza conçoit l'éternité comme une réalité intemporelle, en dehors du temps."
+      },
+      {
+        "concept_1": {
+          "nom": "Temps et mémoire (Bergson)",
+          "definition": "Pour Bergson, la mémoire joue un rôle fondamental dans notre expérience du temps. Le passé n'est jamais complètement révolu, il survit sous forme de souvenirs qui influencent notre présent. Le temps est donc une continuité où passé et présent s'interpénètrent."
+        },
+        "concept_2": {
+          "nom": "Temps et instantanéité (Descartes)",
+          "definition": "Descartes, en revanche, conçoit le temps de manière plus linéaire et instantanée. Chaque instant est distinct du précédent, et le passé n'a d'existence que dans la mesure où il est pensé par l'esprit. Le temps est une succession d'instants discontinus."
+        },
+        "opposition": "Bergson voit le temps comme une continuité où passé et présent s'interpénètrent, tandis que Descartes conçoit le temps comme une succession d'instants discontinus."
+      },
+      {
+        "concept_1": {
+          "nom": "Temps et mouvement (Aristote)",
+          "definition": "Pour Aristote, le temps est inséparable du mouvement. Il est la mesure du changement, c'est-à-dire la succession d'un 'avant' et d'un 'après'. Le temps est donc une propriété du monde physique, lié aux transformations des objets dans l'espace."
+        },
+        "concept_2": {
+          "nom": "Temps et immuabilité (Parménide)",
+          "definition": "Parménide, en revanche, nie le changement et le devenir. Pour lui, l'être est immuable et éternel. Le temps, en tant que succession de changements, n'est qu'une illusion de nos sens. Ce qui est véritablement réel est hors du temps."
+        },
+        "opposition": "Aristote voit le temps comme une mesure du mouvement et du changement, tandis que Parménide nie le temps et le changement, affirmant que l'être est immuable et éternel."
+      },
+      {
+        "concept_1": {
+          "nom": "Temps et durée intérieure (Bergson)",
+          "definition": "Henri Bergson distingue entre le temps mesuré objectivement par les horloges et la 'durée', qui est l'expérience intérieure du temps. La durée est une continuité qualitative, où passé et présent se fondent dans un flux unique vécu par la conscience."
+        },
+        "concept_2": {
+          "nom": "Temps et instantanéité (Descartes)",
+          "definition": "Descartes, en revanche, conçoit le temps comme une succession d'instants distincts. Chaque instant est séparé du suivant, et le passé n'existe plus que dans la mémoire. Le temps est donc discontinu et mesurable."
+        },
+        "opposition": "Bergson voit le temps comme une durée continue et qualitative, tandis que Descartes le conçoit comme une succession d'instants discontinus et mesurables."
+      },
+      {
+        "concept_1": {
+          "nom": "Temps et finitude (Heidegger)",
+          "definition": "Heidegger, dans *Être et Temps*, soutient que le temps est constitutif de l'existence humaine. Le Dasein (l'être-là) est un être-pour-la-mort, et l'existence authentique consiste à prendre conscience de sa finitude et à vivre en fonction de cette temporalité."
+        },
+        "concept_2": {
+          "nom": "Temps et éternité (Plotin)",
+          "definition": "Plotin, dans sa métaphysique, voit le temps comme une émanation de l'éternité. Le temps est une dégradation de l'éternité parfaite, qui est immuable et hors du temps. L'âme humaine, en se tournant vers l'intellect, peut accéder à cette éternité."
+        },
+        "opposition": "Heidegger voit le temps comme constitutif de l'existence humaine et de sa finitude, tandis que Plotin conçoit le temps comme une dégradation de l'éternité, à laquelle l'âme peut accéder."
+      },
+      {
+        "concept_1": {
+          "nom": "Temps et contingence (Sartre)",
+          "definition": "Pour Jean-Paul Sartre, le temps est lié à la contingence de l'existence humaine. L'homme est 'jeté' dans le monde sans raison, et son existence est marquée par l'angoisse face à l'avenir incertain. Le temps est donc une dimension de la liberté humaine."
+        },
+        "concept_2": {
+          "nom": "Temps et nécessité (Spinoza)",
+          "definition": "Spinoza, en revanche, voit le temps comme une illusion liée à notre perception limitée. Tout dans l'univers est déterminé par la nécessité des lois de la nature. L'éternité est la vraie réalité, où tout est nécessaire et immuable."
+        },
+        "opposition": "Sartre voit le temps comme une dimension de la contingence et de la liberté humaine, tandis que Spinoza considère le temps comme une illusion, et l'éternité comme la réalité nécessaire."
+      },
+      {
+        "concept_1": {
+          "nom": "Temps linéaire (Philosophie chrétienne)",
+          "definition": "Dans la tradition chrétienne, le temps est linéaire et orienté vers un but ultime : le Jugement dernier et le Salut. L'histoire a un début (la Création) et une fin (le Jugement), et chaque moment est un pas vers cet accomplissement divin."
+        },
+        "concept_2": {
+          "nom": "Temps cyclique (Nietzsche)",
+          "definition": "Nietzsche, avec la doctrine de l'éternel retour, propose une vision cyclique du temps. Chaque événement se répète éternellement, et l'histoire n'a ni début ni fin. Le temps est un cercle infini où tout revient éternellement."
+        },
+        "opposition": "La philosophie chrétienne conçoit le temps comme linéaire, orienté vers un but final, tandis que Nietzsche voit le temps comme cyclique, avec une répétition éternelle des événements."
+      },
+      {
+        "concept_1": {
+          "nom": "Temps et mémoire (Bergson)",
+          "definition": "Pour Bergson, la mémoire est essentielle à la compréhension du temps. Le passé n'est jamais complètement révolu, il survit sous forme de souvenirs qui influencent notre présent. Le temps est donc une continuité où passé et présent s'interpénètrent."
+        },
+        "concept_2": {
+          "nom": "Temps et instantanéité (Leibniz)",
+          "definition": "Leibniz conçoit le temps comme une série d'instants distincts, chacun étant une 'monade' fermée sur elle-même. Le temps est une succession d'états discontinus, sans véritable continuité entre eux."
+        },
+        "opposition": "Bergson voit le temps comme une continuité où passé et présent s'interpénètrent, tandis que Leibniz conçoit le temps comme une succession d'instants discontinus et indépendants."
+      },
+      {
+        "concept_1": {
+          "nom": "Temps et anticipation (Husserl)",
+          "definition": "Husserl, dans sa phénoménologie, analyse le temps comme une structure de la conscience. Le temps est constitué par la rétention (le passé immédiat), la protention (l'anticipation du futur) et le présent vivant, qui forment ensemble la trame de notre expérience temporelle."
+        },
+        "concept_2": {
+          "nom": "Temps et éternité (Boèce)",
+          "definition": "Boèce, dans *La Consolation de la Philosophie*, distingue le temps de l'éternité. Le temps est la condition de la vie humaine, marquée par le changement et la finitude, tandis que l'éternité est la condition divine, où tout est simultanément présent."
+        },
+        "opposition": "Husserl voit le temps comme une structure de la conscience, marquée par l'anticipation et la rétention, tandis que Boèce distingue le temps humain, marqué par la finitude, de l'éternité divine."
+      },
+      {
+        "concept_1": {
+          "nom": "Temps et liberté (Kant)",
+          "definition": "Pour Kant, le temps est une forme a priori de la sensibilité humaine. Il est la condition de toute expérience, mais il est aussi lié à la liberté morale. Le temps est la condition de l'action humaine, qui se déploie dans une succession d'événements."
+        },
+        "concept_2": {
+          "nom": "Temps et déterminisme (Laplace)",
+          "definition": "Laplace, en revanche, soutient une vision déterministe du temps. Si l'on connaissait toutes les conditions initiales de l'univers, on pourrait prédire tous les événements futurs. Le temps est donc entièrement déterminé par les lois de la nature."
+        },
+        "opposition": "Kant voit le temps comme une condition de la liberté morale et de l'action humaine, tandis que Laplace adopte une vision déterministe où le temps est entièrement régi par les lois de la nature."
+      },
+      {
+        "concept_1": {
+          "nom": "Temps et instant décisif (Kierkegaard)",
+          "definition": "Pour Kierkegaard, l'instant est un moment décisif dans l'existence humaine. C'est l'instant où l'individu fait un choix existentiel, qui engage toute sa vie. Le temps est donc marqué par des moments de décision qui donnent sens à l'existence."
+        },
+        "concept_2": {
+          "nom": "Temps et éternité (Thomas d'Aquin)",
+          "definition": "Thomas d'Aquin distingue le temps, qui est la mesure du changement dans le monde matériel, de l'éternité, qui est l'absence de changement et de succession. Dieu, étant immuable, est en dehors du temps et dans l'éternité."
+        },
+        "opposition": "Kierkegaard voit le temps comme marqué par des instants décisifs dans l'existence humaine, tandis que Thomas d'Aquin distingue le temps, lié au changement, de l'éternité divine, immuable."
+      }
+    ]
+  }

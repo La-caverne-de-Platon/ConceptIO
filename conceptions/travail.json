@@ -1,0 +1,191 @@
+{
+    "distinctions": [
+      {
+        "concept_1": {
+          "nom": "Travail et aliénation (Marx)",
+          "definition": "Pour Karl Marx, le travail sous le capitalisme est aliénant. L'ouvrier est dépossédé du produit de son travail, qui devient une marchandise. Le travailleur ne se reconnaît plus dans son activité, car il est exploité par le capital et réduit à un simple rouage dans le processus de production."
+        },
+        "concept_2": {
+          "nom": "Travail et réalisation de soi (Hegel)",
+          "definition": "Pour Hegel, le travail est un moyen par lequel l'individu se réalise et se reconnaît dans le monde. À travers le travail, l'homme transforme la nature et, en même temps, se transforme lui-même. Le travail est donc un processus de développement de la conscience de soi."
+        },
+        "opposition": "Marx voit le travail comme aliénant sous le capitalisme, tandis que Hegel considère le travail comme un moyen de réalisation de soi et de développement de la conscience."
+      },
+      {
+        "concept_1": {
+          "nom": "Travail et nécessité (Aristote)",
+          "definition": "Pour Aristote, le travail est une activité nécessaire pour répondre aux besoins matériels de la vie. Cependant, il le distingue des activités supérieures comme la contemplation philosophique, qui sont des fins en soi. Le travail est donc subordonné à la nécessité et ne permet pas d'atteindre la véritable liberté."
+        },
+        "concept_2": {
+          "nom": "Travail et liberté (Hannah Arendt)",
+          "definition": "Hannah Arendt distingue le travail (lié à la nécessité biologique et à la survie) de l'œuvre (création durable) et de l'action (engagement politique). Pour elle, le travail est une activité répétitive et cyclique, qui ne permet pas d'accéder à la liberté véritable, contrairement à l'action politique."
+        },
+        "opposition": "Aristote et Arendt voient tous deux le travail comme lié à la nécessité, mais Arendt distingue également l'œuvre et l'action comme des activités plus élevées permettant d'atteindre la liberté."
+      },
+      {
+        "concept_1": {
+          "nom": "Travail et technique (Simondon)",
+          "definition": "Simondon voit dans le travail une relation entre l'homme et la technique. Le travail est une activité qui permet à l'homme de comprendre et de maîtriser les objets techniques. Cette relation technique est une manière pour l'homme de s'intégrer dans le monde en transformant la matière."
+        },
+        "concept_2": {
+          "nom": "Travail et exploitation (Marx)",
+          "definition": "Pour Marx, le travail sous le capitalisme est une forme d'exploitation. Le travailleur vend sa force de travail au capitaliste, qui s'approprie la plus-value produite par ce travail. Le travail devient ainsi un moyen d'enrichissement pour le capitaliste, au détriment du travailleur."
+        },
+        "opposition": "Simondon voit le travail comme une relation technique et créative avec le monde, tandis que Marx le considère comme une forme d'exploitation sous le capitalisme."
+      },
+      {
+        "concept_1": {
+          "nom": "Travail et division du travail (Durkheim)",
+          "definition": "Pour Émile Durkheim, la division du travail est un facteur de cohésion sociale. Elle permet de spécialiser les individus dans des tâches spécifiques, ce qui renforce l'interdépendance entre eux. La division du travail est donc un élément essentiel de la solidarité organique dans les sociétés modernes."
+        },
+        "concept_2": {
+          "nom": "Travail et division du travail (Marx)",
+          "definition": "Marx critique la division du travail, qu'il voit comme une source d'aliénation. La spécialisation excessive des tâches déshumanise le travailleur, qui devient un simple exécutant d'une tâche répétitive. La division du travail est ainsi un moyen de contrôle et d'exploitation dans le système capitaliste."
+        },
+        "opposition": "Durkheim voit la division du travail comme un facteur de cohésion sociale, tandis que Marx la critique comme une source d'aliénation et d'exploitation."
+      },
+      {
+        "concept_1": {
+          "nom": "Travail et valeur (Smith)",
+          "definition": "Adam Smith, dans sa théorie économique, voit le travail comme la source de la richesse des nations. La valeur d'une marchandise est déterminée par la quantité de travail nécessaire à sa production. Le travail est donc au cœur de l'économie et de la création de valeur."
+        },
+        "concept_2": {
+          "nom": "Travail et valeur (Marx)",
+          "definition": "Marx reprend l'idée que le travail est source de valeur, mais il critique l'économie politique classique pour ne pas avoir vu que la valeur produite par le travail est appropriée par le capitaliste sous forme de plus-value. Le travailleur ne reçoit pas la totalité de la valeur qu'il produit."
+        },
+        "opposition": "Smith voit le travail comme la source de la richesse et de la valeur, tandis que Marx critique cette vision en montrant que la valeur produite par le travail est en partie appropriée par le capitaliste sous forme de plus-value."
+      },
+      {
+        "concept_1": {
+          "nom": "Travail et autonomie (Kant)",
+          "definition": "Pour Kant, le travail est une activité qui permet à l'homme de développer son autonomie. En travaillant, l'homme exerce sa raison pratique et devient capable de se fixer des fins et de les réaliser par ses propres moyens. Le travail est donc un moyen d'émancipation."
+        },
+        "concept_2": {
+          "nom": "Travail et servitude (Rousseau)",
+          "definition": "Rousseau, en revanche, voit le travail comme une forme de servitude. Dans la société moderne, l'homme est contraint de travailler pour satisfaire des besoins artificiels créés par la société. Le travail devient ainsi une aliénation par rapport à l'état de nature, où l'homme vivait librement."
+        },
+        "opposition": "Kant voit le travail comme un moyen d'autonomie et d'émancipation, tandis que Rousseau le considère comme une forme de servitude dans la société moderne."
+      },
+      {
+        "concept_1": {
+          "nom": "Travail et productivité (Taylorisme)",
+          "definition": "Le taylorisme, ou organisation scientifique du travail, vise à maximiser la productivité en rationalisant les tâches. Le travail est divisé en opérations simples et répétitives, ce qui permet d'augmenter l'efficacité et la production. Le travailleur devient un simple exécutant de tâches standardisées."
+        },
+        "concept_2": {
+          "nom": "Travail et créativité (Bergson)",
+          "definition": "Henri Bergson voit le travail comme une activité créative, liée à l'élan vital. Le travail n'est pas seulement une répétition de gestes mécaniques, mais une expression de la liberté humaine et de la capacité à innover. Le travail créatif est une manière de participer à la création du monde."
+        },
+        "opposition": "Le taylorisme voit le travail comme une activité standardisée visant à maximiser la productivité, tandis que Bergson le considère comme une activité créative et libre."
+      },
+      {
+        "concept_1": {
+          "nom": "Travail et utilité (Bentham)",
+          "definition": "Pour Jeremy Bentham, le travail doit être évalué en fonction de son utilité, c'est-à-dire de la quantité de bonheur qu'il produit. Le travail est un moyen d'atteindre le plus grand bonheur pour le plus grand nombre, en maximisant les plaisirs et en minimisant les peines."
+        },
+        "concept_2": {
+          "nom": "Travail et dignité (Marx)",
+          "definition": "Marx, en revanche, insiste sur la dignité du travailleur. Le travail n'est pas seulement un moyen de produire des biens, mais une activité par laquelle l'homme se réalise. L'exploitation du travailleur, qui le prive des fruits de son travail, est une atteinte à sa dignité."
+        },
+        "opposition": "Bentham voit le travail sous l'angle de son utilité pour maximiser le bonheur, tandis que Marx insiste sur la dignité du travailleur et critique l'exploitation."
+      },
+      {
+        "concept_1": {
+          "nom": "Travail et servitude (Hegel)",
+          "definition": "Dans la dialectique du maître et de l'esclave, Hegel montre que l'esclave, par le travail, finit par se libérer. Le travail est d'abord une contrainte imposée par le maître, mais à travers cette contrainte, l'esclave transforme la nature et se transforme lui-même, accédant ainsi à une forme de liberté."
+        },
+        "concept_2": {
+          "nom": "Travail et domination (Nietzsche)",
+          "definition": "Nietzsche critique le travail comme une forme de domestication des masses. Pour lui, le travail est un moyen de soumettre les individus à une morale d'esclaves, les empêchant de réaliser leur potentiel créatif et leur volonté de puissance."
+        },
+        "opposition": "Hegel voit le travail comme une voie vers la libération de l'individu, tandis que Nietzsche le considère comme un instrument de domination et de soumission."
+      },
+      {
+        "concept_1": {
+          "nom": "Travail et praxis (Marx)",
+          "definition": "Pour Marx, le travail est une praxis, c'est-à-dire une activité consciente et transformative. Le travail est l'activité par laquelle l'homme transforme la nature pour répondre à ses besoins, mais aussi pour se transformer lui-même. Cependant, sous le capitalisme, cette praxis est aliénée."
+        },
+        "concept_2": {
+          "nom": "Travail et poiesis (Aristote)",
+          "definition": "Aristote distingue la praxis (action) de la poiesis (production). Le travail, dans la poiesis, est une activité visant à produire quelque chose d'extérieur à l'agent. Il est subordonné à un but utilitaire, contrairement à la praxis, qui est une fin en soi."
+        },
+        "opposition": "Marx voit le travail comme une praxis transformative, tandis qu'Aristote le considère comme une poiesis, une activité productive subordonnée à un résultat extérieur."
+      },
+      {
+        "concept_1": {
+          "nom": "Travail et aliénation (Feuerbach)",
+          "definition": "Feuerbach voit le travail comme une forme d'aliénation, mais il l'explique en termes religieux. L'homme projette ses qualités dans un Dieu extérieur et devient étranger à lui-même. Le travail, dans ce contexte, est une activité qui renforce cette aliénation en éloignant l'homme de son essence véritable."
+        },
+        "concept_2": {
+          "nom": "Travail et émancipation (Marx)",
+          "definition": "Marx reprend la notion d'aliénation, mais il la situe dans le cadre économique. Pour lui, l'aliénation du travailleur sous le capitalisme est due à l'appropriation de la plus-value par le capitaliste. L'émancipation passe par la suppression de cette exploitation et la réappropriation du travail par les travailleurs."
+        },
+        "opposition": "Feuerbach voit l'aliénation dans le travail à travers une projection religieuse, tandis que Marx situe l'aliénation dans les rapports économiques du capitalisme."
+      },
+      {
+        "concept_1": {
+          "nom": "Travail et société (Durkheim)",
+          "definition": "Pour Durkheim, le travail est un facteur de cohésion sociale. La division du travail permet de spécialiser les individus et de renforcer l'interdépendance entre eux. Le travail est donc un élément essentiel de la solidarité organique dans les sociétés modernes."
+        },
+        "concept_2": {
+          "nom": "Travail et individualisme (Simmel)",
+          "definition": "Georg Simmel voit le travail dans les sociétés modernes comme un facteur d'individualisation. La spécialisation des tâches et la division du travail fragmentent les expériences individuelles, ce qui conduit à une forme d'isolement et de distanciation entre les individus."
+        },
+        "opposition": "Durkheim voit le travail comme un facteur de cohésion sociale, tandis que Simmel souligne son rôle dans l'individualisation et l'isolement des individus."
+      },
+      {
+        "concept_1": {
+          "nom": "Travail et utilité (Bentham)",
+          "definition": "Pour Jeremy Bentham, le travail doit être évalué en fonction de son utilité, c'est-à-dire de la quantité de bonheur qu'il produit. Le travail est un moyen d'atteindre le plus grand bonheur pour le plus grand nombre, en maximisant les plaisirs et en minimisant les peines."
+        },
+        "concept_2": {
+          "nom": "Travail et dignité (Marx)",
+          "definition": "Marx, en revanche, insiste sur la dignité du travailleur. Le travail n'est pas seulement un moyen de produire des biens, mais une activité par laquelle l'homme se réalise. L'exploitation du travailleur, qui le prive des fruits de son travail, est une atteinte à sa dignité."
+        },
+        "opposition": "Bentham voit le travail sous l'angle de son utilité pour maximiser le bonheur, tandis que Marx insiste sur la dignité du travailleur et critique l'exploitation."
+      },
+      {
+        "concept_1": {
+          "nom": "Travail et productivité (Taylorisme)",
+          "definition": "Le taylorisme, ou organisation scientifique du travail, vise à maximiser la productivité en rationalisant les tâches. Le travail est divisé en opérations simples et répétitives, ce qui permet d'augmenter l'efficacité et la production. Le travailleur devient un simple exécutant de tâches standardisées."
+        },
+        "concept_2": {
+          "nom": "Travail et créativité (Bergson)",
+          "definition": "Henri Bergson voit le travail comme une activité créative, liée à l'élan vital. Le travail n'est pas seulement une répétition de gestes mécaniques, mais une expression de la liberté humaine et de la capacité à innover. Le travail créatif est une manière de participer à la création du monde."
+        },
+        "opposition": "Le taylorisme voit le travail comme une activité standardisée visant à maximiser la productivité, tandis que Bergson le considère comme une activité créative et libre."
+      },
+      {
+        "concept_1": {
+          "nom": "Travail et exploitation (Proudhon)",
+          "definition": "Pour Proudhon, le travail est exploité par le capitalisme, mais il ne prône pas la suppression de la propriété privée comme Marx. Il propose plutôt une réorganisation de la société sur des bases mutualistes, où les travailleurs s'associent pour gérer collectivement les moyens de production."
+        },
+        "concept_2": {
+          "nom": "Travail et révolution (Marx)",
+          "definition": "Marx, en revanche, prône une révolution pour abolir la propriété privée des moyens de production. Le travail doit être libéré de l'exploitation capitaliste par la suppression des classes sociales et l'instauration d'une société communiste."
+        },
+        "opposition": "Proudhon propose une réorganisation mutualiste du travail, tandis que Marx prône une révolution pour abolir la propriété privée et instaurer une société sans classe."
+      },
+      {
+        "concept_1": {
+          "nom": "Travail et éthique (Weber)",
+          "definition": "Max Weber montre que le travail, dans l'éthique protestante, est vu comme une vocation. Le travail est une activité morale qui permet de glorifier Dieu à travers la réussite économique. Cette éthique du travail a joué un rôle central dans le développement du capitalisme moderne."
+        },
+        "concept_2": {
+          "nom": "Travail et matérialisme historique (Marx)",
+          "definition": "Marx, en revanche, voit le travail comme une activité matérielle, déterminée par les conditions économiques. Le travail n'est pas une vocation morale, mais une activité exploitée par le capitalisme. Le développement du capitalisme est le résultat de la lutte des classes, et non d'une éthique religieuse."
+        },
+        "opposition": "Weber voit le travail comme une vocation morale dans l'éthique protestante, tandis que Marx le considère comme une activité matérielle exploitée par le capitalisme."
+      },
+      {
+        "concept_1": {
+          "nom": "Travail et bonheur (Epicure)",
+          "definition": "Pour Épicure, le travail n'est pas une fin en soi. Le bonheur réside dans la satisfaction des besoins naturels et nécessaires, et non dans l'accumulation de richesses par le travail. Le travail doit donc être réduit au strict nécessaire pour atteindre l'ataraxie (absence de troubles)."
+        },
+        "concept_2": {
+          "nom": "Travail et devoir (Kant)",
+          "definition": "Pour Kant, le travail est un devoir. L'homme doit travailler pour subvenir à ses besoins et contribuer à la société. Le travail est une obligation morale, car il permet à l'homme de développer ses facultés et de participer à la réalisation du bien commun."
+        },
+        "opposition": "Épicure voit le travail comme une activité à limiter pour atteindre le bonheur, tandis que Kant le considère comme un devoir moral pour l'individu et la société."
+      }
+    ]
+  }

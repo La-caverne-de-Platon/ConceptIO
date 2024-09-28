@@ -1,0 +1,191 @@
+{
+    "distinctions": [
+      {
+        "concept_1": {
+          "nom": "Justice chez Platon",
+          "definition": "Pour Platon, la justice est l'harmonie entre les différentes parties de l'âme et de la cité. Chaque classe sociale (philosophes, guerriers, producteurs) doit remplir sa fonction propre, de manière à ce que l'ensemble soit en équilibre. La justice est donc une vertu collective qui assure l'ordre et l'harmonie dans la cité."
+        },
+        "concept_2": {
+          "nom": "Justice chez Aristote",
+          "definition": "Pour Aristote, la justice est une vertu individuelle et sociale qui consiste à donner à chacun ce qui lui est dû. Il distingue la justice distributive (répartition des biens selon le mérite) et la justice corrective (réparation des torts)."
+        },
+        "opposition": "Chez Platon, la justice est une harmonie collective dans la cité, tandis que chez Aristote, elle est une vertu individuelle qui vise à rétablir l'équité entre les individus."
+      },
+      {
+        "concept_1": {
+          "nom": "Justice naturelle",
+          "definition": "La justice naturelle repose sur des principes universels et immuables qui transcendent les lois humaines. Elle est souvent associée à l'idée de droits naturels, comme le droit à la vie, à la liberté et à la propriété."
+        },
+        "concept_2": {
+          "nom": "Justice positive",
+          "definition": "La justice positive est celle qui est définie par les lois humaines. Elle est relative aux normes et aux conventions sociales, et peut varier d'une société à l'autre. Elle est souvent critiquée pour son caractère arbitraire."
+        },
+        "opposition": "La justice naturelle repose sur des principes universels, tandis que la justice positive est définie par les lois humaines et peut varier selon les sociétés."
+      },
+      {
+        "concept_1": {
+          "nom": "Justice utilitariste (Bentham, Mill)",
+          "definition": "Dans l'utilitarisme, la justice consiste à maximiser le bonheur du plus grand nombre. Les actions justes sont celles qui produisent les meilleures conséquences pour la majorité, même si cela implique des sacrifices individuels."
+        },
+        "concept_2": {
+          "nom": "Justice déontologique (Kant)",
+          "definition": "Chez Kant, la justice repose sur des principes moraux universels et absolus. Une action est juste si elle respecte la loi morale, indépendamment des conséquences. La justice ne doit jamais sacrifier les droits individuels au profit du bien collectif."
+        },
+        "opposition": "L'utilitarisme juge la justice en fonction des conséquences et du bien-être collectif, tandis que la justice kantienne repose sur des principes moraux absolus, indépendants des résultats."
+      },
+      {
+        "concept_1": {
+          "nom": "Justice sociale",
+          "definition": "La justice sociale vise à réduire les inégalités économiques et sociales en redistribuant les ressources de manière équitable. Elle cherche à garantir à chacun des conditions de vie dignes, en tenant compte des besoins et des mérites."
+        },
+        "concept_2": {
+          "nom": "Justice libertarienne (Nozick)",
+          "definition": "La justice libertarienne défend la liberté individuelle et la propriété privée. Selon Nozick, toute redistribution forcée des richesses est injuste, car elle viole les droits de propriété. La justice consiste à respecter les transactions libres et volontaires entre individus."
+        },
+        "opposition": "La justice sociale cherche à redistribuer les richesses pour réduire les inégalités, tandis que la justice libertarienne défend la liberté individuelle et la propriété privée, et rejette toute redistribution forcée."
+      },
+      {
+        "concept_1": {
+          "nom": "Justice procédurale",
+          "definition": "La justice procédurale met l'accent sur l'équité des procédures et des règles qui régissent la société. Une action ou une décision est juste si elle respecte des règles impartiales et transparentes, indépendamment des résultats obtenus."
+        },
+        "concept_2": {
+          "nom": "Justice distributive",
+          "definition": "La justice distributive concerne la répartition équitable des ressources et des biens au sein de la société. Elle prend en compte les besoins, les mérites et les contributions de chacun pour déterminer ce qui est dû à chaque individu."
+        },
+        "opposition": "La justice procédurale se concentre sur l'équité des règles et des processus, tandis que la justice distributive se concentre sur la répartition équitable des ressources et des biens."
+      },
+      {
+        "concept_1": {
+          "nom": "Justice rétributive",
+          "definition": "La justice rétributive concerne la punition des crimes et des délits. Elle vise à rétablir l'équilibre en infligeant une sanction proportionnelle à l'offense commise, afin de rendre justice à la victime et à la société."
+        },
+        "concept_2": {
+          "nom": "Justice réparatrice",
+          "definition": "La justice réparatrice met l'accent sur la réparation du tort causé à la victime et sur la réconciliation entre le coupable et la victime. Elle cherche à restaurer les relations sociales plutôt qu'à punir."
+        },
+        "opposition": "La justice rétributive se concentre sur la punition proportionnelle au crime, tandis que la justice réparatrice cherche à réparer le tort et à restaurer les relations sociales."
+      },
+      {
+        "concept_1": {
+          "nom": "Justice comme équité (Rawls)",
+          "definition": "Pour John Rawls, la justice comme équité repose sur deux principes : le principe de liberté (chaque individu doit avoir des libertés égales) et le principe de différence (les inégalités sociales et économiques sont justes si elles bénéficient aux plus défavorisés)."
+        },
+        "concept_2": {
+          "nom": "Justice méritocratique",
+          "definition": "La justice méritocratique consiste à récompenser les individus en fonction de leurs mérites, de leurs efforts et de leurs compétences. Les inégalités sont justes si elles reflètent les contributions et les talents individuels."
+        },
+        "opposition": "La justice comme équité de Rawls cherche à réduire les inégalités en faveur des plus défavorisés, tandis que la justice méritocratique valorise les inégalités basées sur le mérite et les efforts individuels."
+      },
+      {
+        "concept_1": {
+          "nom": "Justice divine",
+          "definition": "La justice divine est celle qui est attribuée à Dieu ou aux dieux dans les traditions religieuses. Elle est souvent perçue comme parfaite et infaillible, et dépasse les limites de la justice humaine. Elle peut impliquer des notions de récompense et de punition dans l'au-delà."
+        },
+        "concept_2": {
+          "nom": "Justice humaine",
+          "definition": "La justice humaine est celle qui est mise en œuvre par les hommes à travers des lois et des institutions. Elle est imparfaite et sujette à des erreurs, mais elle est nécessaire pour maintenir l'ordre social et garantir les droits des individus."
+        },
+        "opposition": "La justice divine est perçue comme parfaite et transcendante, tandis que la justice humaine est imparfaite et limitée par les capacités des institutions et des lois humaines."
+      },
+      {
+        "concept_1": {
+          "nom": "Justice distributive selon Rawls",
+          "definition": "John Rawls propose une conception de la justice distributive fondée sur le principe de différence : les inégalités économiques et sociales sont justes si elles bénéficient aux plus défavorisés. Il s'agit de garantir une égalité des chances réelle."
+        },
+        "concept_2": {
+          "nom": "Justice distributive selon Nozick",
+          "definition": "Pour Robert Nozick, la justice distributive repose sur le respect des droits de propriété. Toute redistribution forcée des richesses est injuste, car elle viole les droits des individus à disposer librement de leurs biens."
+        },
+        "opposition": "Rawls justifie certaines inégalités si elles profitent aux plus défavorisés, tandis que Nozick rejette toute redistribution forcée et défend la justice comme respect des droits de propriété."
+      },
+      {
+        "concept_1": {
+          "nom": "Justice corrective (Aristote)",
+          "definition": "La justice corrective, selon Aristote, vise à rétablir l'équilibre après une injustice. Elle intervient dans les transactions volontaires (contrats) et involontaires (délits) pour corriger les torts et rétablir l'égalité entre les parties."
+        },
+        "concept_2": {
+          "nom": "Justice distributive (Aristote)",
+          "definition": "La justice distributive, toujours selon Aristote, concerne la répartition des biens et des honneurs en fonction du mérite. Elle vise à attribuer à chacun ce qui lui est dû en fonction de sa contribution à la société."
+        },
+        "opposition": "La justice corrective répare les torts dans les échanges et les délits, tandis que la justice distributive concerne la répartition des ressources et des honneurs en fonction du mérite."
+      },
+      {
+        "concept_1": {
+          "nom": "Justice commutative",
+          "definition": "La justice commutative concerne les échanges entre individus. Elle vise à garantir l'égalité dans les transactions, en veillant à ce que chaque partie reçoive ce qui lui est dû, sans favoritisme ni exploitation."
+        },
+        "concept_2": {
+          "nom": "Justice distributive",
+          "definition": "La justice distributive, quant à elle, concerne la répartition des ressources au sein de la société. Elle prend en compte les besoins, les mérites et les contributions de chacun pour déterminer une répartition équitable."
+        },
+        "opposition": "La justice commutative se concentre sur l'égalité dans les échanges individuels, tandis que la justice distributive concerne la répartition des ressources à l'échelle de la société."
+      },
+      {
+        "concept_1": {
+          "nom": "Justice et équité chez Aristote",
+          "definition": "Pour Aristote, l'équité est une forme supérieure de justice qui corrige les imperfections des lois générales. Elle consiste à adapter la loi aux circonstances particulières pour rendre une décision plus juste."
+        },
+        "concept_2": {
+          "nom": "Justice légale",
+          "definition": "La justice légale est celle qui applique strictement les lois, sans prendre en compte les circonstances particulières. Elle vise à garantir l'égalité devant la loi et l'impartialité des décisions judiciaires."
+        },
+        "opposition": "L'équité permet d'adapter la justice aux situations particulières, tandis que la justice légale applique les lois de manière stricte et uniforme."
+      },
+      {
+        "concept_1": {
+          "nom": "Justice punitive",
+          "definition": "La justice punitive vise à punir les individus pour les crimes ou délits qu'ils ont commis. Elle repose sur l'idée que la punition doit être proportionnelle à l'infraction et qu'elle doit dissuader les futurs comportements déviants."
+        },
+        "concept_2": {
+          "nom": "Justice réparatrice",
+          "definition": "La justice réparatrice cherche à réparer les torts causés à la victime et à rétablir les relations sociales. Elle privilégie la réconciliation et la réparation plutôt que la punition."
+        },
+        "opposition": "La justice punitive se concentre sur la punition proportionnelle au crime, tandis que la justice réparatrice privilégie la réparation des torts et la réconciliation entre les parties."
+      },
+      {
+        "concept_1": {
+          "nom": "Justice formelle (Kant)",
+          "definition": "Pour Kant, la justice formelle repose sur des principes universels et abstraits, comme l'impératif catégorique. Elle ne prend pas en compte les conséquences des actions, mais se concentre sur le respect des règles morales universelles."
+        },
+        "concept_2": {
+          "nom": "Justice matérielle",
+          "definition": "La justice matérielle prend en compte les conséquences des actions et vise à garantir un résultat juste. Elle s'intéresse à la répartition concrète des biens, des droits et des devoirs au sein de la société."
+        },
+        "opposition": "La justice formelle se concentre sur le respect des principes moraux universels, tandis que la justice matérielle s'intéresse aux résultats concrets et à la répartition des ressources."
+      },
+      {
+        "concept_1": {
+          "nom": "Justice rétributive (Platon)",
+          "definition": "Chez Platon, la justice rétributive consiste à attribuer à chacun ce qui lui est dû en fonction de ses actions. Elle vise à rétablir l'ordre en récompensant les bons comportements et en punissant les mauvais."
+        },
+        "concept_2": {
+          "nom": "Justice distributive (Platon)",
+          "definition": "Pour Platon, la justice distributive consiste à attribuer à chacun une place dans la société en fonction de ses capacités et de ses vertus. Elle vise à garantir l'harmonie sociale en répartissant les rôles et les responsabilités de manière juste."
+        },
+        "opposition": "La justice rétributive chez Platon s'intéresse aux récompenses et aux punitions, tandis que la justice distributive s'intéresse à la répartition des rôles et des responsabilités dans la société."
+      },
+      {
+        "concept_1": {
+          "nom": "Justice et utilitarisme (Bentham)",
+          "definition": "Pour Jeremy Bentham, la justice consiste à maximiser le bonheur du plus grand nombre. Les actions justes sont celles qui produisent les meilleures conséquences pour la majorité, même si cela implique des sacrifices individuels."
+        },
+        "concept_2": {
+          "nom": "Justice et libertarisme (Nozick)",
+          "definition": "Pour Robert Nozick, la justice consiste à respecter les droits individuels, notamment le droit de propriété. Toute redistribution forcée des richesses est injuste, car elle viole les droits des individus à disposer librement de leurs biens."
+        },
+        "opposition": "L'utilitarisme juge la justice en fonction des conséquences pour le plus grand nombre, tandis que le libertarisme défend la justice comme respect des droits individuels, notamment le droit de propriété."
+      },
+      {
+        "concept_1": {
+          "nom": "Justice et égalité",
+          "definition": "La justice égalitaire vise à garantir une égalité stricte entre les individus, en veillant à ce que chacun reçoive la même part des ressources ou des droits, indépendamment de ses mérites ou de ses besoins."
+        },
+        "concept_2": {
+          "nom": "Justice et équité",
+          "definition": "La justice équitable prend en compte les différences entre les individus pour ajuster la répartition des ressources ou des droits. Elle vise à traiter les individus de manière juste en fonction de leurs besoins et de leurs mérites."
+        },
+        "opposition": "La justice égalitaire prône une égalité stricte entre les individus, tandis que la justice équitable ajuste la répartition en fonction des besoins et des mérites de chacun."
+      }
+    ]
+  }
